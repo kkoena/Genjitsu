@@ -1,7 +1,9 @@
 import { create } from 'zustand'
 export const useStore = create((set) => ({
-  booted: false, search: false, active: null, glitch: false, flame: false,
+  currentTab: 'pitch',
+  booted: true, search: false, active: null, glitch: false, flame: false,
   simModal: false, dubModal: false, verifyModal: false, pitchModal: false,
+  setCurrentTab: (tab) => set({ currentTab: tab }),
   setBooted: () => set({ booted: true }),
   setSearch: (search) => set({ search }),
   open: (id) => set({ active: id }),
