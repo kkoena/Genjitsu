@@ -6,7 +6,7 @@ import { Bloom, ChromaticAberration, EffectComposer, Glitch, Noise, Vignette } f
 import { BlendFunction, GlitchMode } from 'postprocessing'
 import * as THREE from 'three'
 import { useStore } from './store'
-import { Boot, Cursor, Hud, Modal, Sharingan, Spotlight } from './ui'
+import { AntiCounterfeitModal, Boot, Cursor, DubUnlockModal, ExecutivePitchModal, Hud, Modal, RevenueSimulatorModal, Sharingan, Spotlight, TopNav } from './ui'
 
 const Dark = ({ edge = '#ff2a3a' }) => (<>
   <meshStandardMaterial color="#070707" flatShading metalness={.7} roughness={.3} emissive="#2a0004" />
@@ -197,6 +197,6 @@ export default function App() {
     <div className={'stage' + (active ? ' dim' : '')}>
       <Canvas camera={{ position: [0, 0, 12], fov: 50 }} dpr={[1, 1.75]}><Suspense fallback={null}><Scene /></Suspense></Canvas>
     </div>
-    <Sharingan /><Hud /><Modal /><Spotlight /><Cursor />{!booted && <Boot />}
+    <TopNav /><Sharingan /><Hud /><Modal /><RevenueSimulatorModal /><DubUnlockModal /><AntiCounterfeitModal /><ExecutivePitchModal /><Spotlight /><Cursor />{!booted && <Boot />}
   </>)
 }

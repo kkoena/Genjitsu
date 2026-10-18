@@ -8,9 +8,10 @@
     "score": 8.54,
     "members": 3779820,
     "image": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
-    "demand": 97,
-    "piracy_signal": 93,
-    "recommendation": "High Piracy: Priority Hindi/Tamil Dub & Localize"
+    "popularity_proxy": 95,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 45,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 1535,
@@ -21,9 +22,10 @@
     "score": 8.62,
     "members": 3747523,
     "image": "https://cdn.myanimelist.net/images/anime/9/9453l.jpg",
-    "demand": 97,
-    "piracy_signal": 93,
-    "recommendation": "High Piracy: Priority Hindi/Tamil Dub & Localize"
+    "popularity_proxy": 95,
+    "streaming_status": "Netflix India",
+    "availability_gap": 45,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 5114,
@@ -34,9 +36,10 @@
     "score": 9.1,
     "members": 3206028,
     "image": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg",
-    "demand": 87,
-    "piracy_signal": 83,
-    "recommendation": "High Piracy: Priority Hindi/Tamil Dub & Localize"
+    "popularity_proxy": 86,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 88,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30276,
@@ -47,9 +50,10 @@
     "score": 8.5,
     "members": 3087808,
     "image": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-    "demand": 83,
-    "piracy_signal": 80,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 82,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 84,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11757,
@@ -60,9 +64,10 @@
     "score": 7.2,
     "members": 2973952,
     "image": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg",
-    "demand": 79,
-    "piracy_signal": 76,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 76,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 78,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 31964,
@@ -73,9 +78,10 @@
     "score": 7.89,
     "members": 2908788,
     "image": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
-    "demand": 79,
-    "piracy_signal": 76,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 77,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 42,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 38000,
@@ -86,9 +92,10 @@
     "score": 8.5,
     "members": 2853413,
     "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-    "demand": 79,
-    "piracy_signal": 76,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 77,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 42,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 20,
@@ -99,9 +106,10 @@
     "score": 7.99,
     "members": 2742992,
     "image": "https://cdn.myanimelist.net/images/anime/13/17405l.jpg",
-    "demand": 76,
-    "piracy_signal": 73,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 74,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 39,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 22319,
@@ -112,9 +120,10 @@
     "score": 7.79,
     "members": 2721331,
     "image": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-    "demand": 75,
-    "piracy_signal": 72,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 73,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 75,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11061,
@@ -125,9 +134,10 @@
     "score": 9.04,
     "members": 2688079,
     "image": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg",
-    "demand": 77,
-    "piracy_signal": 74,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 75,
+    "streaming_status": "Netflix India",
+    "availability_gap": 40,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 32281,
@@ -138,9 +148,10 @@
     "score": 8.84,
     "members": 2624738,
     "image": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg",
-    "demand": 75,
-    "piracy_signal": 72,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 73,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 75,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 25777,
@@ -151,9 +162,10 @@
     "score": 8.51,
     "members": 2593983,
     "image": "https://cdn.myanimelist.net/images/anime/4/84177l.jpg",
-    "demand": 74,
-    "piracy_signal": 71,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 72,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 37,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 9253,
@@ -164,9 +176,10 @@
     "score": 9.07,
     "members": 2463954,
     "image": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
-    "demand": 72,
-    "piracy_signal": 69,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 71,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 73,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33486,
@@ -177,9 +190,10 @@
     "score": 8.11,
     "members": 2431774,
     "image": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg",
-    "demand": 70,
-    "piracy_signal": 68,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 68,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 33,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 1735,
@@ -190,9 +204,10 @@
     "score": 8.26,
     "members": 2374806,
     "image": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg",
-    "demand": 69,
-    "piracy_signal": 67,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 67,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 32,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 19815,
@@ -203,9 +218,10 @@
     "score": 8.08,
     "members": 2322875,
     "image": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-    "demand": 68,
-    "piracy_signal": 66,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 66,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 68,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40748,
@@ -216,9 +232,10 @@
     "score": 8.63,
     "members": 2304046,
     "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
-    "demand": 68,
-    "piracy_signal": 66,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 67,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 32,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 35760,
@@ -229,9 +246,10 @@
     "score": 8.62,
     "members": 2239336,
     "image": "https://cdn.myanimelist.net/images/anime/1173/92110l.jpg",
-    "demand": 67,
-    "piracy_signal": 65,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 65,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 30,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 28851,
@@ -242,9 +260,10 @@
     "score": 8.94,
     "members": 2218467,
     "image": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-    "demand": 61,
-    "piracy_signal": 51,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 66,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 68,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 21,
@@ -255,9 +274,10 @@
     "score": 8.7,
     "members": 2204897,
     "image": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
-    "demand": 66,
-    "piracy_signal": 64,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 65,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 30,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 1575,
@@ -268,9 +288,10 @@
     "score": 8.7,
     "members": 2169252,
     "image": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-    "demand": 66,
-    "piracy_signal": 64,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 64,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 66,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 4224,
@@ -281,9 +302,10 @@
     "score": 8.08,
     "members": 2136794,
     "image": "https://cdn.myanimelist.net/images/anime/13/22128l.jpg",
-    "demand": 58,
-    "piracy_signal": 48,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 62,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 64,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38524,
@@ -294,9 +316,10 @@
     "score": 9.05,
     "members": 2133927,
     "image": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg",
-    "demand": 66,
-    "piracy_signal": 64,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 64,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 29,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 23273,
@@ -307,9 +330,10 @@
     "score": 8.65,
     "members": 2130316,
     "image": "https://cdn.myanimelist.net/images/anime/3/67177l.jpg",
-    "demand": 59,
-    "piracy_signal": 49,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 63,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 65,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 31240,
@@ -320,9 +344,10 @@
     "score": 8.23,
     "members": 2110918,
     "image": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-    "demand": 64,
-    "piracy_signal": 62,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 62,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 64,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 36456,
@@ -333,9 +358,10 @@
     "score": 8.04,
     "members": 2104689,
     "image": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg",
-    "demand": 63,
-    "piracy_signal": 61,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 61,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 26,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 20507,
@@ -346,9 +372,10 @@
     "score": 7.95,
     "members": 2094249,
     "image": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-    "demand": 63,
-    "piracy_signal": 61,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 61,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 63,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 6547,
@@ -359,9 +386,10 @@
     "score": 8.06,
     "members": 2021861,
     "image": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg",
-    "demand": 62,
-    "piracy_signal": 60,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 60,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 62,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 22199,
@@ -372,9 +400,10 @@
     "score": 7.47,
     "members": 2014407,
     "image": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-    "demand": 60,
-    "piracy_signal": 58,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 58,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 31043,
@@ -385,9 +414,10 @@
     "score": 8.31,
     "members": 2013301,
     "image": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg",
-    "demand": 62,
-    "piracy_signal": 60,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 60,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 62,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 23755,
@@ -398,9 +428,10 @@
     "score": 7.66,
     "members": 1989616,
     "image": "https://cdn.myanimelist.net/images/anime/8/65409l.jpg",
-    "demand": 60,
-    "piracy_signal": 58,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 58,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32182,
@@ -411,9 +442,10 @@
     "score": 8.49,
     "members": 1978558,
     "image": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-    "demand": 62,
-    "piracy_signal": 60,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 60,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 40,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 10620,
@@ -424,9 +456,10 @@
     "score": 7.41,
     "members": 1958310,
     "image": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg",
-    "demand": 59,
-    "piracy_signal": 57,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 57,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 24833,
@@ -437,9 +470,10 @@
     "score": 8.09,
     "members": 1934141,
     "image": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg",
-    "demand": 60,
-    "piracy_signal": 58,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 58,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 38,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 21881,
@@ -450,9 +484,10 @@
     "score": 6.7,
     "members": 1916570,
     "image": "https://cdn.myanimelist.net/images/anime/1223/121999l.jpg",
-    "demand": 57,
-    "piracy_signal": 56,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 54,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 20583,
@@ -463,9 +498,10 @@
     "score": 8.44,
     "members": 1888573,
     "image": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg",
-    "demand": 54,
-    "piracy_signal": 45,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 58,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 23,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 37779,
@@ -476,9 +512,10 @@
     "score": 8.51,
     "members": 1885995,
     "image": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-    "demand": 60,
-    "piracy_signal": 58,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 58,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30831,
@@ -489,9 +526,10 @@
     "score": 8.11,
     "members": 1880349,
     "image": "https://cdn.myanimelist.net/images/anime/8/77831l.jpg",
-    "demand": 59,
-    "piracy_signal": 57,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 57,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 269,
@@ -502,9 +540,10 @@
     "score": 7.92,
     "members": 1878216,
     "image": "https://cdn.myanimelist.net/images/anime/3/40451l.jpg",
-    "demand": 58,
-    "piracy_signal": 56,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 56,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 21,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 40028,
@@ -515,9 +554,10 @@
     "score": 8.8,
     "members": 1872476,
     "image": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-    "demand": 60,
-    "piracy_signal": 58,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 58,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 23,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 9919,
@@ -528,9 +568,10 @@
     "score": 7.49,
     "members": 1866901,
     "image": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-    "demand": 57,
-    "piracy_signal": 56,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 55,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 22535,
@@ -541,9 +582,10 @@
     "score": 8.34,
     "members": 1797592,
     "image": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-    "demand": 58,
-    "piracy_signal": 56,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 56,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 1,
@@ -554,9 +596,10 @@
     "score": 8.75,
     "members": 1788584,
     "image": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
-    "demand": 58,
-    "piracy_signal": 56,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 57,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 199,
@@ -567,9 +610,10 @@
     "score": 8.78,
     "members": 1777836,
     "image": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-    "demand": 58,
-    "piracy_signal": 56,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 57,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30,
@@ -580,9 +624,10 @@
     "score": 8.35,
     "members": 1736961,
     "image": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-    "demand": 56,
-    "piracy_signal": 55,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 55,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 27899,
@@ -593,9 +638,10 @@
     "score": 7.02,
     "members": 1720031,
     "image": "https://cdn.myanimelist.net/images/anime/1889/123307l.jpg",
-    "demand": 53,
-    "piracy_signal": 52,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 51,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 2904,
@@ -606,9 +652,10 @@
     "score": 8.91,
     "members": 1714368,
     "image": "https://cdn.myanimelist.net/images/anime/1088/135089l.jpg",
-    "demand": 57,
-    "piracy_signal": 56,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 56,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28223,
@@ -619,9 +666,10 @@
     "score": 8.15,
     "members": 1704114,
     "image": "https://cdn.myanimelist.net/images/anime/5/71553l.jpg",
-    "demand": 55,
-    "piracy_signal": 54,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 54,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33352,
@@ -632,9 +680,10 @@
     "score": 8.67,
     "members": 1695886,
     "image": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg",
-    "demand": 56,
-    "piracy_signal": 55,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 55,
+    "streaming_status": "Netflix India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 6702,
@@ -645,9 +694,10 @@
     "score": 7.57,
     "members": 1691645,
     "image": "https://cdn.myanimelist.net/images/anime/5/18179l.jpg",
-    "demand": 54,
-    "piracy_signal": 53,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 52,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 18679,
@@ -658,9 +708,10 @@
     "score": 8.04,
     "members": 1670745,
     "image": "https://cdn.myanimelist.net/images/anime/1464/111943l.jpg",
-    "demand": 55,
-    "piracy_signal": 54,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 53,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37450,
@@ -671,9 +722,10 @@
     "score": 8.24,
     "members": 1657056,
     "image": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg",
-    "demand": 55,
-    "piracy_signal": 54,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 53,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37999,
@@ -684,9 +736,10 @@
     "score": 8.41,
     "members": 1653700,
     "image": "https://cdn.myanimelist.net/images/anime/1295/106551l.jpg",
-    "demand": 49,
-    "piracy_signal": 40,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 53,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38691,
@@ -697,9 +750,10 @@
     "score": 8.29,
     "members": 1651884,
     "image": "https://cdn.myanimelist.net/images/anime/1613/102576l.jpg",
-    "demand": 55,
-    "piracy_signal": 54,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 53,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 38408,
@@ -710,9 +764,10 @@
     "score": 7.9,
     "members": 1650739,
     "image": "https://cdn.myanimelist.net/images/anime/1412/107914l.jpg",
-    "demand": 54,
-    "piracy_signal": 53,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 52,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 11111,
@@ -723,9 +778,10 @@
     "score": 7.48,
     "members": 1616854,
     "image": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg",
-    "demand": 52,
-    "piracy_signal": 51,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 50,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34134,
@@ -736,9 +792,10 @@
     "score": 7.5,
     "members": 1609625,
     "image": "https://cdn.myanimelist.net/images/anime/1247/122044l.jpg",
-    "demand": 52,
-    "piracy_signal": 51,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 50,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28171,
@@ -749,9 +806,10 @@
     "score": 8.15,
     "members": 1596313,
     "image": "https://cdn.myanimelist.net/images/anime/3/72943l.jpg",
-    "demand": 47,
-    "piracy_signal": 38,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 51,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14719,
@@ -762,9 +820,10 @@
     "score": 7.89,
     "members": 1589584,
     "image": "https://cdn.myanimelist.net/images/anime/3/40409l.jpg",
-    "demand": 53,
-    "piracy_signal": 52,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 51,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 35849,
@@ -775,9 +834,10 @@
     "score": 7.21,
     "members": 1582078,
     "image": "https://cdn.myanimelist.net/images/anime/1614/90408l.jpg",
-    "demand": 51,
-    "piracy_signal": 50,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 49,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 13601,
@@ -788,9 +848,10 @@
     "score": 8.34,
     "members": 1580651,
     "image": "https://cdn.myanimelist.net/images/anime/5/43399l.jpg",
-    "demand": 53,
-    "piracy_signal": 52,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 52,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 3588,
@@ -801,9 +862,10 @@
     "score": 7.84,
     "members": 1576277,
     "image": "https://cdn.myanimelist.net/images/anime/9/7804l.jpg",
-    "demand": 52,
-    "piracy_signal": 51,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 50,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34572,
@@ -814,9 +876,10 @@
     "score": 8.15,
     "members": 1575401,
     "image": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg",
-    "demand": 53,
-    "piracy_signal": 52,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 51,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 9989,
@@ -827,9 +890,10 @@
     "score": 8.31,
     "members": 1564037,
     "image": "https://cdn.myanimelist.net/images/anime/5/79697l.jpg",
-    "demand": 53,
-    "piracy_signal": 52,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 51,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 2001,
@@ -840,9 +904,10 @@
     "score": 8.63,
     "members": 1558970,
     "image": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg",
-    "demand": 54,
-    "piracy_signal": 53,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 52,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28999,
@@ -853,9 +918,10 @@
     "score": 7.75,
     "members": 1550247,
     "image": "https://cdn.myanimelist.net/images/anime/12/74683l.jpg",
-    "demand": 46,
-    "piracy_signal": 37,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 49,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 29803,
@@ -866,9 +932,10 @@
     "score": 7.91,
     "members": 1525938,
     "image": "https://cdn.myanimelist.net/images/anime/7/88019l.jpg",
-    "demand": 51,
-    "piracy_signal": 50,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 49,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 15809,
@@ -879,9 +946,10 @@
     "score": 7.75,
     "members": 1517345,
     "image": "https://cdn.myanimelist.net/images/anime/3/50177l.jpg",
-    "demand": 51,
-    "piracy_signal": 50,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 49,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 35790,
@@ -892,9 +960,10 @@
     "score": 7.97,
     "members": 1514011,
     "image": "https://cdn.myanimelist.net/images/anime/1490/101365l.jpg",
-    "demand": 51,
-    "piracy_signal": 50,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 49,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28121,
@@ -905,9 +974,10 @@
     "score": 7.55,
     "members": 1476095,
     "image": "https://cdn.myanimelist.net/images/anime/2/70187l.jpg",
-    "demand": 50,
-    "piracy_signal": 49,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 48,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 226,
@@ -918,9 +988,10 @@
     "score": 7.48,
     "members": 1471831,
     "image": "https://cdn.myanimelist.net/images/anime/1780/121555l.jpg",
-    "demand": 50,
-    "piracy_signal": 49,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 47,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 8074,
@@ -931,9 +1002,10 @@
     "score": 7.07,
     "members": 1463360,
     "image": "https://cdn.myanimelist.net/images/anime/11/78311l.jpg",
-    "demand": 49,
-    "piracy_signal": 48,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 46,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 10087,
@@ -944,9 +1016,10 @@
     "score": 8.28,
     "members": 1458299,
     "image": "https://cdn.myanimelist.net/images/anime/1887/117644l.jpg",
-    "demand": 51,
-    "piracy_signal": 50,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 49,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32937,
@@ -957,9 +1030,10 @@
     "score": 8.26,
     "members": 1451947,
     "image": "https://cdn.myanimelist.net/images/anime/2/83188l.jpg",
-    "demand": 51,
-    "piracy_signal": 50,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 49,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37510,
@@ -970,9 +1044,10 @@
     "score": 8.8,
     "members": 1450818,
     "image": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-    "demand": 52,
-    "piracy_signal": 51,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 50,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 121,
@@ -983,9 +1058,10 @@
     "score": 8.11,
     "members": 1434654,
     "image": "https://cdn.myanimelist.net/images/anime/10/75815l.jpg",
-    "demand": 50,
-    "piracy_signal": 49,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 48,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40456,
@@ -996,9 +1072,10 @@
     "score": 8.61,
     "members": 1431239,
     "image": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-    "demand": 51,
-    "piracy_signal": 50,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 49,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 34933,
@@ -1009,9 +1086,10 @@
     "score": 7.24,
     "members": 1424808,
     "image": "https://cdn.myanimelist.net/images/anime/3/86578l.jpg",
-    "demand": 42,
-    "piracy_signal": 34,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 46,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30503,
@@ -1022,9 +1100,10 @@
     "score": 8.15,
     "members": 1412731,
     "image": "https://cdn.myanimelist.net/images/anime/1689/94850l.jpg",
-    "demand": 50,
-    "piracy_signal": 49,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 48,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37521,
@@ -1035,9 +1114,10 @@
     "score": 8.74,
     "members": 1391351,
     "image": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg",
-    "demand": 50,
-    "piracy_signal": 49,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 49,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 50265,
@@ -1048,9 +1128,10 @@
     "score": 8.6,
     "members": 1387256,
     "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg",
-    "demand": 50,
-    "piracy_signal": 49,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 48,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 14813,
@@ -1061,9 +1142,10 @@
     "score": 8.01,
     "members": 1383988,
     "image": "https://cdn.myanimelist.net/images/anime/1786/120117l.jpg",
-    "demand": 43,
-    "piracy_signal": 34,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 47,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11617,
@@ -1074,9 +1156,10 @@
     "score": 7.34,
     "members": 1382037,
     "image": "https://cdn.myanimelist.net/images/anime/1331/111940l.jpg",
-    "demand": 47,
-    "piracy_signal": 46,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 45,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 2167,
@@ -1087,9 +1170,10 @@
     "score": 8.0,
     "members": 1379703,
     "image": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg",
-    "demand": 49,
-    "piracy_signal": 48,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 47,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30654,
@@ -1100,9 +1184,10 @@
     "score": 8.49,
     "members": 1374412,
     "image": "https://cdn.myanimelist.net/images/anime/8/77966l.jpg",
-    "demand": 50,
-    "piracy_signal": 49,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 48,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 28891,
@@ -1113,9 +1198,10 @@
     "score": 8.63,
     "members": 1373327,
     "image": "https://cdn.myanimelist.net/images/anime/9/76662l.jpg",
-    "demand": 44,
-    "piracy_signal": 35,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 48,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 6746,
@@ -1126,9 +1212,10 @@
     "score": 8.11,
     "members": 1369052,
     "image": "https://cdn.myanimelist.net/images/anime/10/71772l.jpg",
-    "demand": 49,
-    "piracy_signal": 48,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 47,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 5081,
@@ -1139,9 +1226,10 @@
     "score": 8.33,
     "members": 1363696,
     "image": "https://cdn.myanimelist.net/images/anime/11/75274l.jpg",
-    "demand": 49,
-    "piracy_signal": 48,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 47,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37430,
@@ -1152,9 +1240,10 @@
     "score": 8.14,
     "members": 1356728,
     "image": "https://cdn.myanimelist.net/images/anime/1069/123309l.jpg",
-    "demand": 49,
-    "piracy_signal": 48,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 47,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 12189,
@@ -1165,9 +1254,10 @@
     "score": 8.07,
     "members": 1327009,
     "image": "https://cdn.myanimelist.net/images/anime/13/50521l.jpg",
-    "demand": 42,
-    "piracy_signal": 34,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 46,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 44511,
@@ -1178,9 +1268,10 @@
     "score": 8.57,
     "members": 1323404,
     "image": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-    "demand": 49,
-    "piracy_signal": 48,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 47,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 31478,
@@ -1191,9 +1282,10 @@
     "score": 7.82,
     "members": 1320389,
     "image": "https://cdn.myanimelist.net/images/anime/3/79409l.jpg",
-    "demand": 47,
-    "piracy_signal": 46,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 45,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14741,
@@ -1204,9 +1296,10 @@
     "score": 7.71,
     "members": 1314917,
     "image": "https://cdn.myanimelist.net/images/anime/12/46931l.jpg",
-    "demand": 41,
-    "piracy_signal": 33,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 45,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34599,
@@ -1217,9 +1310,10 @@
     "score": 8.66,
     "members": 1310134,
     "image": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg",
-    "demand": 49,
-    "piracy_signal": 48,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 47,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 26243,
@@ -1230,9 +1324,10 @@
     "score": 7.49,
     "members": 1287594,
     "image": "https://cdn.myanimelist.net/images/anime/5/73474l.jpg",
-    "demand": 46,
-    "piracy_signal": 45,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 44,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 47778,
@@ -1243,9 +1338,10 @@
     "score": 8.79,
     "members": 1287198,
     "image": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg",
-    "demand": 48,
-    "piracy_signal": 47,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 47,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 40591,
@@ -1256,9 +1352,10 @@
     "score": 8.64,
     "members": 1274580,
     "image": "https://cdn.myanimelist.net/images/anime/1764/106659l.jpg",
-    "demand": 42,
-    "piracy_signal": 34,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 46,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 42897,
@@ -1269,9 +1366,10 @@
     "score": 8.2,
     "members": 1274070,
     "image": "https://cdn.myanimelist.net/images/anime/1695/111486l.jpg",
-    "demand": 41,
-    "piracy_signal": 33,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 45,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 431,
@@ -1282,9 +1380,10 @@
     "score": 8.66,
     "members": 1268885,
     "image": "https://cdn.myanimelist.net/images/anime/5/75810l.jpg",
-    "demand": 48,
-    "piracy_signal": 47,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 46,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38671,
@@ -1295,9 +1394,10 @@
     "score": 7.71,
     "members": 1268092,
     "image": "https://cdn.myanimelist.net/images/anime/1664/103275l.jpg",
-    "demand": 46,
-    "piracy_signal": 45,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 44,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 9756,
@@ -1308,9 +1408,10 @@
     "score": 8.36,
     "members": 1243381,
     "image": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg",
-    "demand": 47,
-    "piracy_signal": 46,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 45,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 13759,
@@ -1321,9 +1422,10 @@
     "score": 8.08,
     "members": 1213910,
     "image": "https://cdn.myanimelist.net/images/anime/4/43643l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 44,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 7054,
@@ -1334,9 +1436,10 @@
     "score": 8.01,
     "members": 1210811,
     "image": "https://cdn.myanimelist.net/images/anime/6/25254l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 43,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 6880,
@@ -1347,9 +1450,10 @@
     "score": 7.15,
     "members": 1206267,
     "image": "https://cdn.myanimelist.net/images/anime/9/75299l.jpg",
-    "demand": 44,
-    "piracy_signal": 43,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 164,
@@ -1360,9 +1464,10 @@
     "score": 8.67,
     "members": 1201948,
     "image": "https://cdn.myanimelist.net/images/anime/7/75919l.jpg",
-    "demand": 47,
-    "piracy_signal": 46,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 45,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 205,
@@ -1373,9 +1478,10 @@
     "score": 8.51,
     "members": 1196726,
     "image": "https://cdn.myanimelist.net/images/anime/1375/121599l.jpg",
-    "demand": 46,
-    "piracy_signal": 45,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 44,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 39535,
@@ -1386,9 +1492,10 @@
     "score": 8.37,
     "members": 1192814,
     "image": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg",
-    "demand": 46,
-    "piracy_signal": 45,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 44,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33206,
@@ -1399,9 +1506,10 @@
     "score": 7.96,
     "members": 1192782,
     "image": "https://cdn.myanimelist.net/images/anime/5/85434l.jpg",
-    "demand": 45,
-    "piracy_signal": 44,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 43,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 10793,
@@ -1412,9 +1520,10 @@
     "score": 7.42,
     "members": 1187384,
     "image": "https://cdn.myanimelist.net/images/anime/1566/133912l.jpg",
-    "demand": 44,
-    "piracy_signal": 43,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 813,
@@ -1425,9 +1534,10 @@
     "score": 8.16,
     "members": 1185513,
     "image": "https://cdn.myanimelist.net/images/anime/1607/117271l.jpg",
-    "demand": 45,
-    "piracy_signal": 44,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 43,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 42249,
@@ -1438,9 +1548,10 @@
     "score": 7.98,
     "members": 1173035,
     "image": "https://cdn.myanimelist.net/images/anime/1839/122012l.jpg",
-    "demand": 45,
-    "piracy_signal": 44,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 43,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 35507,
@@ -1451,9 +1562,10 @@
     "score": 7.86,
     "members": 1171755,
     "image": "https://cdn.myanimelist.net/images/anime/5/86830l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 42,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 11771,
@@ -1464,9 +1576,10 @@
     "score": 8.06,
     "members": 1164534,
     "image": "https://cdn.myanimelist.net/images/anime/11/50453l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 43,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37520,
@@ -1477,9 +1590,10 @@
     "score": 8.24,
     "members": 1162560,
     "image": "https://cdn.myanimelist.net/images/anime/1879/100467l.jpg",
-    "demand": 45,
-    "piracy_signal": 44,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 43,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 20899,
@@ -1490,9 +1604,10 @@
     "score": 8.1,
     "members": 1161534,
     "image": "https://cdn.myanimelist.net/images/anime/11/55267l.jpg",
-    "demand": 45,
-    "piracy_signal": 44,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 43,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 48583,
@@ -1503,9 +1618,10 @@
     "score": 8.77,
     "members": 1159800,
     "image": "https://cdn.myanimelist.net/images/anime/1948/120625l.jpg",
-    "demand": 46,
-    "piracy_signal": 45,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 44,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 4181,
@@ -1516,9 +1632,10 @@
     "score": 8.93,
     "members": 1157642,
     "image": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg",
-    "demand": 46,
-    "piracy_signal": 45,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 45,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32935,
@@ -1529,9 +1646,10 @@
     "score": 8.78,
     "members": 1152923,
     "image": "https://cdn.myanimelist.net/images/anime/7/81992l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 44,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 4898,
@@ -1542,9 +1660,10 @@
     "score": 7.66,
     "members": 1145653,
     "image": "https://cdn.myanimelist.net/images/anime/5/27013l.jpg",
-    "demand": 43,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 18897,
@@ -1555,9 +1674,10 @@
     "score": 7.57,
     "members": 1138315,
     "image": "https://cdn.myanimelist.net/images/anime/13/75587l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 18153,
@@ -1568,9 +1688,10 @@
     "score": 7.73,
     "members": 1135162,
     "image": "https://cdn.myanimelist.net/images/anime/3/85468l.jpg",
-    "demand": 43,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 23283,
@@ -1581,9 +1702,10 @@
     "score": 8.09,
     "members": 1127895,
     "image": "https://cdn.myanimelist.net/images/anime/1417/117422l.jpg",
-    "demand": 44,
-    "piracy_signal": 43,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 42,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 41587,
@@ -1594,9 +1716,10 @@
     "score": 7.39,
     "members": 1113103,
     "image": "https://cdn.myanimelist.net/images/anime/1911/113611l.jpg",
-    "demand": 42,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 40,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 32282,
@@ -1607,9 +1730,10 @@
     "score": 8.09,
     "members": 1104116,
     "image": "https://cdn.myanimelist.net/images/anime/8/79353l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 42,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 35120,
@@ -1620,9 +1744,10 @@
     "score": 7.75,
     "members": 1095582,
     "image": "https://cdn.myanimelist.net/images/anime/2/89973l.jpg",
-    "demand": 43,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 40,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 853,
@@ -1633,9 +1758,10 @@
     "score": 8.16,
     "members": 1089289,
     "image": "https://cdn.myanimelist.net/images/anime/2/71992l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34577,
@@ -1646,9 +1772,10 @@
     "score": 7.58,
     "members": 1088690,
     "image": "https://cdn.myanimelist.net/images/anime/11/90089l.jpg",
-    "demand": 42,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 40,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 17265,
@@ -1659,9 +1786,10 @@
     "score": 7.92,
     "members": 1088262,
     "image": "https://cdn.myanimelist.net/images/anime/5/84004l.jpg",
-    "demand": 43,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11741,
@@ -1672,9 +1800,10 @@
     "score": 8.55,
     "members": 1083386,
     "image": "https://cdn.myanimelist.net/images/anime/1522/117645l.jpg",
-    "demand": 44,
-    "piracy_signal": 43,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 42,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 31933,
@@ -1685,9 +1814,10 @@
     "score": 8.5,
     "members": 1069244,
     "image": "https://cdn.myanimelist.net/images/anime/3/79156l.jpg",
-    "demand": 44,
-    "piracy_signal": 43,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 42,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 26055,
@@ -1698,9 +1828,10 @@
     "score": 8.44,
     "members": 1061853,
     "image": "https://cdn.myanimelist.net/images/anime/11/75045l.jpg",
-    "demand": 43,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 42,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37349,
@@ -1711,9 +1842,10 @@
     "score": 7.42,
     "members": 1060111,
     "image": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg",
-    "demand": 41,
-    "piracy_signal": 41,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 39,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 39587,
@@ -1724,9 +1856,10 @@
     "score": 8.34,
     "members": 1054759,
     "image": "https://cdn.myanimelist.net/images/anime/1444/108005l.jpg",
-    "demand": 43,
-    "piracy_signal": 42,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33255,
@@ -1737,9 +1870,10 @@
     "score": 8.41,
     "members": 1049537,
     "image": "https://cdn.myanimelist.net/images/anime/11/80167l.jpg",
-    "demand": 43,
-    "piracy_signal": 42,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 41,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14227,
@@ -1750,9 +1884,10 @@
     "score": 7.47,
     "members": 1046191,
     "image": "https://cdn.myanimelist.net/images/anime/4/39779l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 39,
+    "streaming_status": "Netflix India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 22297,
@@ -1763,9 +1898,10 @@
     "score": 8.19,
     "members": 1033375,
     "image": "https://cdn.myanimelist.net/images/anime/12/67333l.jpg",
-    "demand": 42,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 40,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 19,
@@ -1776,9 +1912,10 @@
     "score": 8.87,
     "members": 1032748,
     "image": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-    "demand": 44,
-    "piracy_signal": 43,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 42,
+    "streaming_status": "Netflix India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 918,
@@ -1789,9 +1926,10 @@
     "score": 8.94,
     "members": 1031044,
     "image": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-    "demand": 44,
-    "piracy_signal": 43,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 42,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 20785,
@@ -1802,9 +1940,10 @@
     "score": 7.4,
     "members": 1029079,
     "image": "https://cdn.myanimelist.net/images/anime/11/61039l.jpg",
-    "demand": 41,
-    "piracy_signal": 41,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 23847,
@@ -1815,9 +1954,10 @@
     "score": 8.21,
     "members": 1025718,
     "image": "https://cdn.myanimelist.net/images/anime/11/75376l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 40,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 5680,
@@ -1828,9 +1968,10 @@
     "score": 7.85,
     "members": 1021915,
     "image": "https://cdn.myanimelist.net/images/anime/10/76120l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 523,
@@ -1841,9 +1982,10 @@
     "score": 8.25,
     "members": 1019342,
     "image": "https://cdn.myanimelist.net/images/anime/4/75923l.jpg",
-    "demand": 42,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 40,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14513,
@@ -1854,9 +1996,10 @@
     "score": 8.02,
     "members": 1014487,
     "image": "https://cdn.myanimelist.net/images/anime/11/42773l.jpg",
-    "demand": 42,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 40,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 36474,
@@ -1867,9 +2010,10 @@
     "score": 7.56,
     "members": 1002758,
     "image": "https://cdn.myanimelist.net/images/anime/1993/93837l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 17895,
@@ -1880,9 +2024,10 @@
     "score": 7.74,
     "members": 999575,
     "image": "https://cdn.myanimelist.net/images/anime/12/52091l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 15583,
@@ -1893,9 +2038,10 @@
     "score": 7.16,
     "members": 998228,
     "image": "https://cdn.myanimelist.net/images/anime/13/44844l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30015,
@@ -1906,9 +2052,10 @@
     "score": 7.97,
     "members": 998176,
     "image": "https://cdn.myanimelist.net/images/anime/3/82149l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 223,
@@ -1919,9 +2066,10 @@
     "score": 7.96,
     "members": 998144,
     "image": "https://cdn.myanimelist.net/images/anime/1887/92364l.jpg",
-    "demand": 41,
-    "piracy_signal": 41,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30240,
@@ -1932,9 +2080,10 @@
     "score": 7.61,
     "members": 979708,
     "image": "https://cdn.myanimelist.net/images/anime/1286/112161l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40852,
@@ -1945,9 +2094,10 @@
     "score": 8.17,
     "members": 977831,
     "image": "https://cdn.myanimelist.net/images/anime/1711/110614l.jpg",
-    "demand": 41,
-    "piracy_signal": 41,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 39,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 35073,
@@ -1958,9 +2108,10 @@
     "score": 7.76,
     "members": 977174,
     "image": "https://cdn.myanimelist.net/images/anime/1212/113415l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37991,
@@ -1971,9 +2122,10 @@
     "score": 8.58,
     "members": 970669,
     "image": "https://cdn.myanimelist.net/images/anime/1572/95010l.jpg",
-    "demand": 42,
-    "piracy_signal": 42,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 40,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 889,
@@ -1984,9 +2136,10 @@
     "score": 8.03,
     "members": 968923,
     "image": "https://cdn.myanimelist.net/images/anime/1906/121592l.jpg",
-    "demand": 41,
-    "piracy_signal": 41,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 22043,
@@ -1997,9 +2150,10 @@
     "score": 7.65,
     "members": 961889,
     "image": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 48736,
@@ -2010,9 +2164,10 @@
     "score": 8.23,
     "members": 961649,
     "image": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 35788,
@@ -2023,9 +2178,10 @@
     "score": 8.0,
     "members": 944001,
     "image": "https://cdn.myanimelist.net/images/anime/3/88434l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38826,
@@ -2036,9 +2192,10 @@
     "score": 8.29,
     "members": 942695,
     "image": "https://cdn.myanimelist.net/images/anime/1880/101146l.jpg",
-    "demand": 41,
-    "piracy_signal": 41,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 35968,
@@ -2049,9 +2206,10 @@
     "score": 7.94,
     "members": 938778,
     "image": "https://cdn.myanimelist.net/images/anime/1864/93518l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40839,
@@ -2062,9 +2220,10 @@
     "score": 7.05,
     "members": 936477,
     "image": "https://cdn.myanimelist.net/images/anime/1902/128382l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 36,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 2025,
@@ -2075,9 +2234,10 @@
     "score": 8.06,
     "members": 922752,
     "image": "https://cdn.myanimelist.net/images/anime/5/19570l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 356,
@@ -2088,9 +2248,10 @@
     "score": 7.28,
     "members": 920022,
     "image": "https://cdn.myanimelist.net/images/anime/4/30327l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30296,
@@ -2101,9 +2262,10 @@
     "score": 7.44,
     "members": 917159,
     "image": "https://cdn.myanimelist.net/images/anime/9/76493l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 1689,
@@ -2114,9 +2276,10 @@
     "score": 7.57,
     "members": 916762,
     "image": "https://cdn.myanimelist.net/images/anime/1410/112994l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 16592,
@@ -2127,9 +2290,10 @@
     "score": 7.21,
     "members": 914225,
     "image": "https://cdn.myanimelist.net/images/anime/4/51463l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 27775,
@@ -2140,9 +2304,10 @@
     "score": 7.91,
     "members": 912108,
     "image": "https://cdn.myanimelist.net/images/anime/4/72750l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 36098,
@@ -2153,9 +2318,10 @@
     "score": 8.56,
     "members": 909147,
     "image": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38101,
@@ -2166,9 +2332,10 @@
     "score": 7.66,
     "members": 902395,
     "image": "https://cdn.myanimelist.net/images/anime/1819/97947l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 23289,
@@ -2179,9 +2346,10 @@
     "score": 7.83,
     "members": 902089,
     "image": "https://cdn.myanimelist.net/images/anime/5/66083l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 6045,
@@ -2192,9 +2360,10 @@
     "score": 8.0,
     "members": 901233,
     "image": "https://cdn.myanimelist.net/images/anime/1502/124384l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 20787,
@@ -2205,9 +2374,10 @@
     "score": 7.09,
     "members": 900578,
     "image": "https://cdn.myanimelist.net/images/anime/1292/94693l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 777,
@@ -2218,9 +2388,10 @@
     "score": 8.35,
     "members": 896045,
     "image": "https://cdn.myanimelist.net/images/anime/6/7333l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 21995,
@@ -2231,9 +2402,10 @@
     "score": 7.64,
     "members": 895259,
     "image": "https://cdn.myanimelist.net/images/anime/8/64813l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 849,
@@ -2244,9 +2416,10 @@
     "score": 7.83,
     "members": 895044,
     "image": "https://cdn.myanimelist.net/images/anime/5/75901l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32,
@@ -2257,9 +2430,10 @@
     "score": 8.55,
     "members": 889918,
     "image": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 15451,
@@ -2270,9 +2444,10 @@
     "score": 7.48,
     "members": 889277,
     "image": "https://cdn.myanimelist.net/images/anime/12/47729l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 39551,
@@ -2283,9 +2458,10 @@
     "score": 8.39,
     "members": 888768,
     "image": "https://cdn.myanimelist.net/images/anime/1271/109841l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 38,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 38883,
@@ -2296,9 +2472,10 @@
     "score": 8.36,
     "members": 888322,
     "image": "https://cdn.myanimelist.net/images/anime/1813/105367l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 38,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 35062,
@@ -2309,9 +2486,10 @@
     "score": 8.06,
     "members": 887707,
     "image": "https://cdn.myanimelist.net/images/anime/3/88476l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 2251,
@@ -2322,9 +2500,10 @@
     "score": 8.37,
     "members": 883640,
     "image": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40221,
@@ -2335,9 +2514,10 @@
     "score": 7.55,
     "members": 879533,
     "image": "https://cdn.myanimelist.net/images/anime/1702/106229l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32615,
@@ -2348,9 +2528,10 @@
     "score": 7.96,
     "members": 877792,
     "image": "https://cdn.myanimelist.net/images/anime/5/82890l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 41353,
@@ -2361,9 +2542,10 @@
     "score": 7.07,
     "members": 869711,
     "image": "https://cdn.myanimelist.net/images/anime/1722/107269l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37675,
@@ -2374,9 +2556,10 @@
     "score": 7.92,
     "members": 863873,
     "image": "https://cdn.myanimelist.net/images/anime/1511/93473l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 10165,
@@ -2387,9 +2570,10 @@
     "score": 8.46,
     "members": 860611,
     "image": "https://cdn.myanimelist.net/images/anime/3/75617l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 38,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32995,
@@ -2400,9 +2584,10 @@
     "score": 7.9,
     "members": 856896,
     "image": "https://cdn.myanimelist.net/images/anime/6/81149l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 24439,
@@ -2413,9 +2598,10 @@
     "score": 7.6,
     "members": 847502,
     "image": "https://cdn.myanimelist.net/images/anime/12/73559l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 43608,
@@ -2426,9 +2612,10 @@
     "score": 9.04,
     "members": 843192,
     "image": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 39,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33487,
@@ -2439,9 +2626,24 @@
     "score": 6.74,
     "members": 840184,
     "image": "https://cdn.myanimelist.net/images/anime/12/83709l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
+  },
+  {
+    "id": 37799,
+    "name": "Tokyo Ghoul:re 2nd Season",
+    "native_name": "東京喰種トーキョーグール：re 第2期",
+    "genre": "Action, Fantasy",
+    "studio": "Pierrot",
+    "score": 6.43,
+    "members": 839730,
+    "image": "https://cdn.myanimelist.net/images/anime/1545/121995l.jpg",
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33674,
@@ -2452,9 +2654,10 @@
     "score": 8.19,
     "members": 839627,
     "image": "https://cdn.myanimelist.net/images/anime/1085/90759l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14345,
@@ -2465,9 +2668,10 @@
     "score": 7.29,
     "members": 837990,
     "image": "https://cdn.myanimelist.net/images/anime/4/40977l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30484,
@@ -2478,9 +2682,10 @@
     "score": 8.53,
     "members": 837925,
     "image": "https://cdn.myanimelist.net/images/anime/1375/93521l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 16782,
@@ -2491,9 +2696,10 @@
     "score": 7.89,
     "members": 834042,
     "image": "https://cdn.myanimelist.net/images/anime/1597/112995l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 42203,
@@ -2504,9 +2710,10 @@
     "score": 8.44,
     "members": 831451,
     "image": "https://cdn.myanimelist.net/images/anime/1724/117421l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 16894,
@@ -2517,9 +2724,10 @@
     "score": 8.22,
     "members": 827438,
     "image": "https://cdn.myanimelist.net/images/anime/9/56155l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28701,
@@ -2530,9 +2738,10 @@
     "score": 8.32,
     "members": 827034,
     "image": "https://cdn.myanimelist.net/images/anime/1881/124810l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 48926,
@@ -2543,9 +2752,10 @@
     "score": 7.91,
     "members": 826305,
     "image": "https://cdn.myanimelist.net/images/anime/1899/117237l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 36,
+    "streaming_status": "Netflix India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 41025,
@@ -2556,9 +2766,10 @@
     "score": 8.36,
     "members": 823295,
     "image": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 25013,
@@ -2569,9 +2780,10 @@
     "score": 8.03,
     "members": 822797,
     "image": "https://cdn.myanimelist.net/images/anime/9/64225l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 36649,
@@ -2582,9 +2794,10 @@
     "score": 8.48,
     "members": 820681,
     "image": "https://cdn.myanimelist.net/images/anime/1190/93472l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 18115,
@@ -2595,9 +2808,10 @@
     "score": 8.22,
     "members": 819755,
     "image": "https://cdn.myanimelist.net/images/anime/13/55039l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 39195,
@@ -2608,9 +2822,10 @@
     "score": 7.84,
     "members": 818658,
     "image": "https://cdn.myanimelist.net/images/anime/1234/102008l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 25157,
@@ -2621,9 +2836,10 @@
     "score": 7.06,
     "members": 816710,
     "image": "https://cdn.myanimelist.net/images/anime/12/67795l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 45576,
@@ -2634,9 +2850,10 @@
     "score": 8.69,
     "members": 814842,
     "image": "https://cdn.myanimelist.net/images/anime/1028/117777l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 47,
@@ -2647,9 +2864,10 @@
     "score": 8.16,
     "members": 813964,
     "image": "https://cdn.myanimelist.net/images/anime/1408/114012l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11887,
@@ -2660,9 +2878,10 @@
     "score": 7.75,
     "members": 813280,
     "image": "https://cdn.myanimelist.net/images/anime/2/39665l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32867,
@@ -2673,9 +2892,10 @@
     "score": 8.19,
     "members": 812246,
     "image": "https://cdn.myanimelist.net/images/anime/1572/133096l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 457,
@@ -2686,9 +2906,10 @@
     "score": 8.66,
     "members": 800054,
     "image": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 1195,
@@ -2699,9 +2920,10 @@
     "score": 7.23,
     "members": 798968,
     "image": "https://cdn.myanimelist.net/images/anime/8/20680l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11843,
@@ -2712,9 +2934,10 @@
     "score": 8.23,
     "members": 798433,
     "image": "https://cdn.myanimelist.net/images/anime/3/33257l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 10408,
@@ -2725,9 +2948,10 @@
     "score": 8.29,
     "members": 797869,
     "image": "https://cdn.myanimelist.net/images/anime/1599/112267l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32729,
@@ -2738,9 +2962,10 @@
     "score": 7.62,
     "members": 797661,
     "image": "https://cdn.myanimelist.net/images/anime/1415/102477l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 50602,
@@ -2751,9 +2976,10 @@
     "score": 8.3,
     "members": 795496,
     "image": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 30694,
@@ -2764,9 +2990,10 @@
     "score": 7.43,
     "members": 795235,
     "image": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 245,
@@ -2777,9 +3004,10 @@
     "score": 8.69,
     "members": 794971,
     "image": "https://cdn.myanimelist.net/images/anime/13/11460l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 4654,
@@ -2790,9 +3018,10 @@
     "score": 7.36,
     "members": 794163,
     "image": "https://cdn.myanimelist.net/images/anime/2/75533l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 227,
@@ -2803,9 +3032,10 @@
     "score": 8.03,
     "members": 793119,
     "image": "https://cdn.myanimelist.net/images/anime/7/77356l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 2966,
@@ -2816,9 +3046,10 @@
     "score": 8.22,
     "members": 792403,
     "image": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 10719,
@@ -2829,9 +3060,10 @@
     "score": 7.16,
     "members": 792056,
     "image": "https://cdn.myanimelist.net/images/anime/8/32873l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 12355,
@@ -2842,9 +3074,10 @@
     "score": 8.58,
     "members": 789229,
     "image": "https://cdn.myanimelist.net/images/anime/9/35721l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 37,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28623,
@@ -2855,9 +3088,10 @@
     "score": 7.27,
     "members": 788016,
     "image": "https://cdn.myanimelist.net/images/anime/12/79164l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 934,
@@ -2868,9 +3102,10 @@
     "score": 7.89,
     "members": 785406,
     "image": "https://cdn.myanimelist.net/images/anime/12/19634l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38680,
@@ -2881,9 +3116,10 @@
     "score": 8.22,
     "members": 784843,
     "image": "https://cdn.myanimelist.net/images/anime/1447/99827l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 36,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37347,
@@ -2894,9 +3130,10 @@
     "score": 7.23,
     "members": 782214,
     "image": "https://cdn.myanimelist.net/images/anime/1730/101329l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 18507,
@@ -2907,9 +3144,10 @@
     "score": 7.33,
     "members": 780607,
     "image": "https://cdn.myanimelist.net/images/anime/6/51107l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 29786,
@@ -2920,9 +3158,10 @@
     "score": 7.23,
     "members": 779762,
     "image": "https://cdn.myanimelist.net/images/anime/6/75106l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28907,
@@ -2933,9 +3172,10 @@
     "score": 7.69,
     "members": 779427,
     "image": "https://cdn.myanimelist.net/images/anime/8/76222l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 24703,
@@ -2946,9 +3186,10 @@
     "score": 7.42,
     "members": 778358,
     "image": "https://cdn.myanimelist.net/images/anime/12/73642l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 2236,
@@ -2959,9 +3200,10 @@
     "score": 8.11,
     "members": 771872,
     "image": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 249,
@@ -2972,9 +3214,10 @@
     "score": 7.86,
     "members": 771503,
     "image": "https://cdn.myanimelist.net/images/anime/1589/95329l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40776,
@@ -2985,9 +3228,10 @@
     "score": 8.54,
     "members": 767486,
     "image": "https://cdn.myanimelist.net/images/anime/1453/106768l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 36,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 28927,
@@ -2998,9 +3242,10 @@
     "score": 7.62,
     "members": 763360,
     "image": "https://cdn.myanimelist.net/images/anime/9/76632l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28677,
@@ -3011,9 +3256,10 @@
     "score": 7.55,
     "members": 762861,
     "image": "https://cdn.myanimelist.net/images/anime/2/73700l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 42361,
@@ -3024,9 +3270,10 @@
     "score": 7.29,
     "members": 762222,
     "image": "https://cdn.myanimelist.net/images/anime/1900/110097l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 13125,
@@ -3037,9 +3284,10 @@
     "score": 8.28,
     "members": 760398,
     "image": "https://cdn.myanimelist.net/images/anime/1549/136389l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 48561,
@@ -3050,9 +3298,10 @@
     "score": 8.47,
     "members": 752005,
     "image": "https://cdn.myanimelist.net/images/anime/1121/119044l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 36,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 40496,
@@ -3063,9 +3312,10 @@
     "score": 7.37,
     "members": 747358,
     "image": "https://cdn.myanimelist.net/images/anime/1126/108573l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32542,
@@ -3076,9 +3326,10 @@
     "score": 7.55,
     "members": 746050,
     "image": "https://cdn.myanimelist.net/images/anime/4/79468l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37086,
@@ -3089,9 +3340,10 @@
     "score": 7.2,
     "members": 745409,
     "image": "https://cdn.myanimelist.net/images/anime/1496/96519l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14467,
@@ -3102,9 +3354,10 @@
     "score": 7.43,
     "members": 743905,
     "image": "https://cdn.myanimelist.net/images/anime/3/47607l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37105,
@@ -3115,9 +3368,10 @@
     "score": 8.43,
     "members": 740203,
     "image": "https://cdn.myanimelist.net/images/anime/1302/94882l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 24415,
@@ -3128,9 +3382,10 @@
     "score": 8.3,
     "members": 735523,
     "image": "https://cdn.myanimelist.net/images/anime/4/68299l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38040,
@@ -3141,9 +3396,10 @@
     "score": 8.45,
     "members": 735212,
     "image": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 6,
@@ -3154,9 +3410,10 @@
     "score": 8.22,
     "members": 733966,
     "image": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 35,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33506,
@@ -3167,9 +3424,10 @@
     "score": 7.35,
     "members": 733613,
     "image": "https://cdn.myanimelist.net/images/anime/5/85201l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 339,
@@ -3180,9 +3438,10 @@
     "score": 8.09,
     "members": 730354,
     "image": "https://cdn.myanimelist.net/images/anime/1718/91550l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30307,
@@ -3193,9 +3452,10 @@
     "score": 6.96,
     "members": 729035,
     "image": "https://cdn.myanimelist.net/images/anime/9/75104l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 31,
+    "streaming_status": "Netflix India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 40956,
@@ -3206,9 +3466,10 @@
     "score": 7.81,
     "members": 725524,
     "image": "https://cdn.myanimelist.net/images/anime/1673/107657l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 39597,
@@ -3219,9 +3480,10 @@
     "score": 7.58,
     "members": 725193,
     "image": "https://cdn.myanimelist.net/images/anime/1630/103417l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 36896,
@@ -3232,9 +3494,10 @@
     "score": 7.55,
     "members": 721484,
     "image": "https://cdn.myanimelist.net/images/anime/1736/93138l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 18671,
@@ -3245,9 +3508,10 @@
     "score": 7.55,
     "members": 720191,
     "image": "https://cdn.myanimelist.net/images/anime/7/56643l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 43299,
@@ -3258,9 +3522,10 @@
     "score": 7.62,
     "members": 718939,
     "image": "https://cdn.myanimelist.net/images/anime/1079/110751l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37982,
@@ -3271,9 +3536,10 @@
     "score": 6.67,
     "members": 718847,
     "image": "https://cdn.myanimelist.net/images/anime/1021/95670l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 31798,
@@ -3284,9 +3550,10 @@
     "score": 7.38,
     "members": 718151,
     "image": "https://cdn.myanimelist.net/images/anime/6/78466l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 1210,
@@ -3297,9 +3564,10 @@
     "score": 8.31,
     "members": 716086,
     "image": "https://cdn.myanimelist.net/images/anime/3/52675l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11597,
@@ -3310,9 +3578,10 @@
     "score": 8.14,
     "members": 715137,
     "image": "https://cdn.myanimelist.net/images/anime/1044/103654l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 31859,
@@ -3323,9 +3592,10 @@
     "score": 7.65,
     "members": 709417,
     "image": "https://cdn.myanimelist.net/images/anime/13/77976l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40356,
@@ -3336,9 +3606,10 @@
     "score": 6.55,
     "members": 706510,
     "image": "https://cdn.myanimelist.net/images/anime/1143/121873l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34902,
@@ -3349,9 +3620,10 @@
     "score": 7.56,
     "members": 705245,
     "image": "https://cdn.myanimelist.net/images/anime/12/86676l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 31765,
@@ -3362,9 +3634,10 @@
     "score": 7.56,
     "members": 704699,
     "image": "https://cdn.myanimelist.net/images/anime/1557/123313l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 41457,
@@ -3375,9 +3648,10 @@
     "score": 8.28,
     "members": 703170,
     "image": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 41389,
@@ -3388,9 +3662,10 @@
     "score": 7.89,
     "members": 702181,
     "image": "https://cdn.myanimelist.net/images/anime/1613/108722l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 270,
@@ -3401,9 +3676,10 @@
     "score": 7.49,
     "members": 701357,
     "image": "https://cdn.myanimelist.net/images/anime/10/19956l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11759,
@@ -3414,9 +3690,24 @@
     "score": 7.22,
     "members": 700824,
     "image": "https://cdn.myanimelist.net/images/anime/1002/135430l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
+  },
+  {
+    "id": 39701,
+    "name": "The Seven Deadly Sins: Imperial Wrath of the Gods",
+    "native_name": "七つの大罪 神々の逆鱗",
+    "genre": "Action, Adventure",
+    "studio": "Studio Deen",
+    "score": 6.46,
+    "members": 698542,
+    "image": "https://cdn.myanimelist.net/images/anime/1546/103418l.jpg",
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 36949,
@@ -3427,9 +3718,10 @@
     "score": 7.96,
     "members": 697361,
     "image": "https://cdn.myanimelist.net/images/anime/1604/93531l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32951,
@@ -3440,9 +3732,10 @@
     "score": 7.14,
     "members": 697297,
     "image": "https://cdn.myanimelist.net/images/anime/8/85593l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 41487,
@@ -3453,9 +3746,10 @@
     "score": 8.33,
     "members": 695610,
     "image": "https://cdn.myanimelist.net/images/anime/1033/118296l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 31722,
@@ -3466,9 +3760,10 @@
     "score": 6.98,
     "members": 694972,
     "image": "https://cdn.myanimelist.net/images/anime/13/79331l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37210,
@@ -3479,9 +3774,10 @@
     "score": 6.86,
     "members": 694917,
     "image": "https://cdn.myanimelist.net/images/anime/1649/93412l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32998,
@@ -3492,9 +3788,10 @@
     "score": 7.83,
     "members": 694689,
     "image": "https://cdn.myanimelist.net/images/anime/13/80515l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 39547,
@@ -3505,9 +3802,10 @@
     "score": 8.36,
     "members": 693435,
     "image": "https://cdn.myanimelist.net/images/anime/1958/107912l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 27787,
@@ -3518,9 +3816,10 @@
     "score": 7.35,
     "members": 677141,
     "image": "https://cdn.myanimelist.net/images/anime/13/72626l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 1482,
@@ -3531,9 +3830,10 @@
     "score": 8.02,
     "members": 677000,
     "image": "https://cdn.myanimelist.net/images/anime/13/75194l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 39783,
@@ -3544,9 +3844,10 @@
     "score": 8.07,
     "members": 674937,
     "image": "https://cdn.myanimelist.net/images/anime/1775/109514l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38329,
@@ -3557,9 +3858,10 @@
     "score": 8.6,
     "members": 674065,
     "image": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 7791,
@@ -3570,9 +3872,10 @@
     "score": 8.17,
     "members": 673633,
     "image": "https://cdn.myanimelist.net/images/anime/12/76121l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11633,
@@ -3583,9 +3886,10 @@
     "score": 7.26,
     "members": 672116,
     "image": "https://cdn.myanimelist.net/images/anime/11/47677l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 8769,
@@ -3596,9 +3900,10 @@
     "score": 6.96,
     "members": 672051,
     "image": "https://cdn.myanimelist.net/images/anime/1508/129576l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28825,
@@ -3609,9 +3914,10 @@
     "score": 7.11,
     "members": 671136,
     "image": "https://cdn.myanimelist.net/images/anime/12/75086l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 2993,
@@ -3622,9 +3928,10 @@
     "score": 6.75,
     "members": 669145,
     "image": "https://cdn.myanimelist.net/images/anime/12/75242l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 437,
@@ -3635,9 +3942,10 @@
     "score": 8.54,
     "members": 664796,
     "image": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 32949,
@@ -3648,9 +3956,10 @@
     "score": 7.14,
     "members": 663617,
     "image": "https://cdn.myanimelist.net/images/anime/5/83937l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 36882,
@@ -3661,9 +3970,10 @@
     "score": 6.7,
     "members": 661220,
     "image": "https://cdn.myanimelist.net/images/anime/1776/97682l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 392,
@@ -3674,9 +3984,10 @@
     "score": 8.46,
     "members": 660012,
     "image": "https://cdn.myanimelist.net/images/anime/1228/111372l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 49926,
@@ -3687,9 +3998,10 @@
     "score": 8.39,
     "members": 659787,
     "image": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 31646,
@@ -3700,9 +4012,10 @@
     "score": 8.38,
     "members": 657801,
     "image": "https://cdn.myanimelist.net/images/anime/6/82898l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 23233,
@@ -3713,9 +4026,10 @@
     "score": 6.71,
     "members": 657325,
     "image": "https://cdn.myanimelist.net/images/anime/1654/112033l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 1818,
@@ -3726,9 +4040,10 @@
     "score": 7.74,
     "members": 654572,
     "image": "https://cdn.myanimelist.net/images/anime/3/21834l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28297,
@@ -3739,9 +4054,10 @@
     "score": 7.9,
     "members": 651680,
     "image": "https://cdn.myanimelist.net/images/anime/13/69455l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 17074,
@@ -3752,9 +4068,10 @@
     "score": 8.77,
     "members": 651618,
     "image": "https://cdn.myanimelist.net/images/anime/1807/121534l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30123,
@@ -3765,9 +4082,10 @@
     "score": 7.76,
     "members": 650452,
     "image": "https://cdn.myanimelist.net/images/anime/10/75764l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 51019,
@@ -3778,9 +4096,10 @@
     "score": 8.34,
     "members": 648679,
     "image": "https://cdn.myanimelist.net/images/anime/1765/135099l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 578,
@@ -3791,9 +4110,10 @@
     "score": 8.51,
     "members": 644663,
     "image": "https://cdn.myanimelist.net/images/anime/7/75808l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 30544,
@@ -3804,9 +4124,10 @@
     "score": 6.82,
     "members": 643852,
     "image": "https://cdn.myanimelist.net/images/anime/5/76034l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 22789,
@@ -3817,9 +4138,10 @@
     "score": 8.38,
     "members": 643253,
     "image": "https://cdn.myanimelist.net/images/anime/1426/111248l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 35994,
@@ -3830,9 +4152,10 @@
     "score": 6.96,
     "members": 641738,
     "image": "https://cdn.myanimelist.net/images/anime/1862/95624l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 23277,
@@ -3843,9 +4166,10 @@
     "score": 7.48,
     "members": 640853,
     "image": "https://cdn.myanimelist.net/images/anime/7/68783l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34618,
@@ -3856,9 +4180,10 @@
     "score": 7.27,
     "members": 640762,
     "image": "https://cdn.myanimelist.net/images/anime/6/88286l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 22147,
@@ -3869,9 +4194,10 @@
     "score": 7.46,
     "members": 639688,
     "image": "https://cdn.myanimelist.net/images/anime/5/85435l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 23281,
@@ -3882,9 +4208,10 @@
     "score": 7.4,
     "members": 636844,
     "image": "https://cdn.myanimelist.net/images/anime/1197/100616l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14289,
@@ -3895,9 +4222,10 @@
     "score": 7.41,
     "members": 636413,
     "image": "https://cdn.myanimelist.net/images/anime/11/39777l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 16742,
@@ -3908,9 +4236,10 @@
     "score": 7.0,
     "members": 635513,
     "image": "https://cdn.myanimelist.net/images/anime/12/51619l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 1887,
@@ -3921,9 +4250,10 @@
     "score": 7.74,
     "members": 633764,
     "image": "https://cdn.myanimelist.net/images/anime/1561/115660l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34280,
@@ -3934,9 +4264,10 @@
     "score": 6.76,
     "members": 632643,
     "image": "https://cdn.myanimelist.net/images/anime/4/86828l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14713,
@@ -3947,9 +4278,10 @@
     "score": 8.1,
     "members": 629140,
     "image": "https://cdn.myanimelist.net/images/anime/3/85429l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 37141,
@@ -3960,9 +4292,10 @@
     "score": 7.56,
     "members": 629104,
     "image": "https://cdn.myanimelist.net/images/anime/1141/117446l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 877,
@@ -3973,9 +4306,10 @@
     "score": 8.54,
     "members": 627835,
     "image": "https://cdn.myanimelist.net/images/anime/2/11232l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 18277,
@@ -3986,9 +4320,10 @@
     "score": 7.04,
     "members": 626323,
     "image": "https://cdn.myanimelist.net/images/anime/5/56163l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 790,
@@ -3999,9 +4334,10 @@
     "score": 7.9,
     "members": 625765,
     "image": "https://cdn.myanimelist.net/images/anime/1183/136187l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 9041,
@@ -4012,9 +4348,10 @@
     "score": 6.63,
     "members": 625198,
     "image": "https://cdn.myanimelist.net/images/anime/3/74045l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34542,
@@ -4025,9 +4362,10 @@
     "score": 7.64,
     "members": 624396,
     "image": "https://cdn.myanimelist.net/images/anime/7/88471l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40052,
@@ -4038,9 +4376,10 @@
     "score": 8.22,
     "members": 624119,
     "image": "https://cdn.myanimelist.net/images/anime/1418/107954l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 32,
+    "streaming_status": "Netflix India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 3455,
@@ -4051,9 +4390,10 @@
     "score": 6.99,
     "members": 623855,
     "image": "https://cdn.myanimelist.net/images/anime/13/22544l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 6347,
@@ -4064,9 +4404,10 @@
     "score": 7.52,
     "members": 623839,
     "image": "https://cdn.myanimelist.net/images/anime/3/50389l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 52034,
@@ -4077,9 +4418,10 @@
     "score": 8.81,
     "members": 623505,
     "image": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33489,
@@ -4090,9 +4432,10 @@
     "score": 7.81,
     "members": 622976,
     "image": "https://cdn.myanimelist.net/images/anime/13/83934l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 19163,
@@ -4103,9 +4446,10 @@
     "score": 7.19,
     "members": 618469,
     "image": "https://cdn.myanimelist.net/images/anime/1703/135124l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28497,
@@ -4116,9 +4460,10 @@
     "score": 7.27,
     "members": 618066,
     "image": "https://cdn.myanimelist.net/images/anime/9/74374l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 33,
@@ -4129,9 +4474,10 @@
     "score": 8.57,
     "members": 617424,
     "image": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 8841,
@@ -4142,9 +4488,10 @@
     "score": 7.35,
     "members": 614677,
     "image": "https://cdn.myanimelist.net/images/anime/13/75521l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 8525,
@@ -4155,9 +4502,10 @@
     "score": 7.66,
     "members": 614326,
     "image": "https://cdn.myanimelist.net/images/anime/2/43361l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 42310,
@@ -4168,9 +4516,10 @@
     "score": 8.6,
     "members": 613426,
     "image": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Netflix India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 527,
@@ -4181,9 +4530,24 @@
     "score": 7.38,
     "members": 611871,
     "image": "https://cdn.myanimelist.net/images/anime/13/73834l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
+  },
+  {
+    "id": 225,
+    "name": "Dragon Ball GT",
+    "native_name": "ドラゴンボールGT",
+    "genre": "Action, Adventure",
+    "studio": "Toei Animation",
+    "score": 6.48,
+    "members": 611802,
+    "image": "https://cdn.myanimelist.net/images/anime/1262/93119l.jpg",
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 34612,
@@ -4194,9 +4558,10 @@
     "score": 8.42,
     "members": 611613,
     "image": "https://cdn.myanimelist.net/images/anime/1961/91383l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 43,
@@ -4207,9 +4572,10 @@
     "score": 8.27,
     "members": 609979,
     "image": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 7674,
@@ -4220,9 +4586,10 @@
     "score": 8.19,
     "members": 606486,
     "image": "https://cdn.myanimelist.net/images/anime/6/26138l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 28977,
@@ -4233,9 +4600,10 @@
     "score": 9.06,
     "members": 602466,
     "image": "https://cdn.myanimelist.net/images/anime/3/72078l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 34,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 11499,
@@ -4246,9 +4614,10 @@
     "score": 7.28,
     "members": 598890,
     "image": "https://cdn.myanimelist.net/images/anime/1487/95651l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 36475,
@@ -4259,9 +4628,10 @@
     "score": 7.0,
     "members": 598458,
     "image": "https://cdn.myanimelist.net/images/anime/1141/93288l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 23321,
@@ -4272,9 +4642,10 @@
     "score": 7.57,
     "members": 598190,
     "image": "https://cdn.myanimelist.net/images/anime/5/68097l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 17729,
@@ -4285,9 +4656,10 @@
     "score": 7.48,
     "members": 598170,
     "image": "https://cdn.myanimelist.net/images/anime/1645/112632l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 7311,
@@ -4298,9 +4670,10 @@
     "score": 8.61,
     "members": 593540,
     "image": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 6213,
@@ -4311,9 +4684,10 @@
     "score": 7.67,
     "members": 593494,
     "image": "https://cdn.myanimelist.net/images/anime/8/53581l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38003,
@@ -4324,9 +4698,10 @@
     "score": 8.22,
     "members": 592671,
     "image": "https://cdn.myanimelist.net/images/anime/1037/100463l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 50172,
@@ -4337,9 +4712,10 @@
     "score": 8.72,
     "members": 591998,
     "image": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Muse India (YouTube)",
+    "availability_gap": 30,
+    "recommendation": "AVOD Audience: Convert to Verified Streetwear & Merch"
   },
   {
     "id": 39940,
@@ -4350,9 +4726,10 @@
     "score": 7.74,
     "members": 591195,
     "image": "https://cdn.myanimelist.net/images/anime/1072/110175l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40834,
@@ -4363,9 +4740,10 @@
     "score": 8.54,
     "members": 590994,
     "image": "https://cdn.myanimelist.net/images/anime/1347/117616l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 33,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 38659,
@@ -4376,9 +4754,10 @@
     "score": 7.49,
     "members": 589736,
     "image": "https://cdn.myanimelist.net/images/anime/1715/103419l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 3457,
@@ -4389,9 +4768,10 @@
     "score": 6.87,
     "members": 589491,
     "image": "https://cdn.myanimelist.net/images/anime/3/7327l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 16067,
@@ -4402,9 +4782,10 @@
     "score": 7.97,
     "members": 588319,
     "image": "https://cdn.myanimelist.net/images/anime/7/53549l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 14075,
@@ -4415,9 +4796,10 @@
     "score": 7.91,
     "members": 584664,
     "image": "https://cdn.myanimelist.net/images/anime/7/42453l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 7724,
@@ -4428,9 +4810,10 @@
     "score": 7.73,
     "members": 584245,
     "image": "https://cdn.myanimelist.net/images/anime/1531/119165l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "UPI Gacha Collectible & Manga Bundle"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 16870,
@@ -4441,9 +4824,10 @@
     "score": 7.79,
     "members": 583139,
     "image": "https://cdn.myanimelist.net/images/anime/1491/134498l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: Direct-to-Consumer Streetwear Drop"
   },
   {
     "id": 40540,
@@ -4454,9 +4838,10 @@
     "score": 7.48,
     "members": 581670,
     "image": "https://cdn.myanimelist.net/images/anime/1438/105106l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 9513,
@@ -4467,9 +4852,10 @@
     "score": 7.86,
     "members": 581664,
     "image": "https://cdn.myanimelist.net/images/anime/3/28013l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
+    "popularity_proxy": 31,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 40938,
@@ -4480,9 +4866,10 @@
     "score": 7.28,
     "members": 580253,
     "image": "https://cdn.myanimelist.net/images/anime/1146/113477l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
+    "popularity_proxy": 30,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   },
   {
     "id": 49596,
@@ -4493,9 +4880,10 @@
     "score": 8.33,
     "members": 578541,
     "image": "https://cdn.myanimelist.net/images/anime/1258/126929l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 32,
+    "streaming_status": "Crunchyroll India",
+    "availability_gap": 20,
+    "recommendation": "Legally Streaming: UPI Gacha Micro-Collectibles"
   },
   {
     "id": 11577,
@@ -4506,47 +4894,9 @@
     "score": 8.45,
     "members": 576179,
     "image": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Digital Micro-Pass & Streaming"
-  },
-  {
-    "id": 31580,
-    "name": "Ajin: Demi-Human",
-    "native_name": "亜人",
-    "genre": "Action, Horror",
-    "studio": "Polygon Pictures",
-    "score": 7.4,
-    "members": 573663,
-    "image": "https://cdn.myanimelist.net/images/anime/13/77968l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
-  },
-  {
-    "id": 15315,
-    "name": "Problem Children Are Coming from Another World, Aren't They?",
-    "native_name": "問題児たちが異世界から来るそうですよ?",
-    "genre": "Action, Comedy",
-    "studio": "Diomedéa",
-    "score": 7.44,
-    "members": 571465,
-    "image": "https://cdn.myanimelist.net/images/anime/12/43369l.jpg",
-    "demand": 40,
-    "piracy_signal": 40,
-    "recommendation": "Streetwear Apparel Drop Candidate"
-  },
-  {
-    "id": 35860,
-    "name": "Teasing Master Takagi-san",
-    "native_name": "からかい上手の高木さん",
-    "genre": "Comedy",
-    "studio": "Shin-Ei Animation",
-    "score": 7.7,
-    "members": 571371,
-    "image": "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg",
-    "demand": 40,
-    "piracy_signal": 32,
-    "recommendation": "Campus Tour & Community Screening"
+    "popularity_proxy": 32,
+    "streaming_status": "Unlicensed in India",
+    "availability_gap": 60,
+    "recommendation": "High Unmet Demand: Dub Unlock & Licensing Gap"
   }
 ]

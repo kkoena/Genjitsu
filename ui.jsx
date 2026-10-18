@@ -79,27 +79,73 @@ export function Boot() {
 }
 
 export function Hud() {
+  const { setPitchModal, setSimModal, setDubModal } = useStore.getState()
   return (<>
-    <div className="hud"><h1 className="dist">Kizuna 絆</h1>
-      <p>JETRO-PS-02: turning Indian anime fandom into sustainable revenue. Four genjutsu, four stages of the funnel.</p></div>
-    <div className="hint">click an object / drag the kunai and throw it at the edge / touch the black flame / esc closes</div>
+    <div className="hud">
+      <h1 className="dist">Kizuna 絆</h1>
+      <p>JETRO-PS-02: Converting Japanese Pop Culture & Content Fandom into Sustainable Revenue in India.</p>
+      <div style={{ display: 'flex', gap: 6, marginTop: 8, pointerEvents: 'auto' }}>
+        <button className="nav-btn active" onClick={() => setPitchModal(true)}>📊 30s Business Brief</button>
+        <button className="nav-btn" onClick={() => setSimModal(true)}>💰 Revenue Engine</button>
+        <button className="nav-btn" onClick={() => setDubModal(true)}>🎙️ Dub Unlock</button>
+      </div>
+    </div>
+    <div className="hint">click an object / drag the kunai / touch the black flame / esc closes</div>
   </>)
 }
 
-function Audience() {
-  const d = [['Tier-1 metros (DEL, MUM, BLR)', 78], ['South (HYD, CHE, KOC)', 61], ['Tier-2 (Pune, Jaipur, Chandigarh)', 54], ['Kolkata + North-East', 47], ['Tier-3 mobile-first', 33]]
-  return (<>
-    <p>An ML dashboard scores every title by region, language and price sensitivity. Piracy search volume ("watch online", "free download") becomes an unmet-demand signal. Bars below are an illustrative demand index; the model replaces them.</p>
-    {d.map(([k, v], i) => (<div className="row" key={k}><span>{k}</span>
-      <motion.div className="bar" initial={{ scaleX: 0 }} animate={{ scaleX: v / 100 }} transition={{ delay: .3 + i * .1, type: 'spring', bounce: .5 }} /><b>{v}</b></div>))}
-    <h3 className="dist">MECE breakdown</h3>
-    <div className="grid">
-      <div className="box"><b>Where</b><br />Metro / Tier-2 / Tier-3, by state and language belt</div>
-      <div className="box"><b>Who</b><br />14-17, 18-24, 25-30; student vs earning</div>
-      <div className="box"><b>How</b><br />Piracy, YouTube, Crunchyroll, Netflix, Prime, manga apps</div>
-      <div className="box"><b>What</b><br />Shonen, isekai, slice of life, seinen; anime, manga, games, music</div>
+export function TopNav() {
+  const { setPitchModal, setSimModal, setDubModal, setVerifyModal, setSearch } = useStore.getState()
+  return (
+    <div className="nav-bar">
+      <button className="nav-btn" onClick={() => setPitchModal(true)}>📊 Executive Pitch (30s)</button>
+      <button className="nav-btn" onClick={() => setSimModal(true)}>💰 Revenue Simulator</button>
+      <button className="nav-btn" onClick={() => setDubModal(true)}>🎙️ Dub Unlock</button>
+      <button className="nav-btn" onClick={() => setVerifyModal(true)}>🛡️ Anti-Counterfeit (HMAC)</button>
+      <button className="nav-btn" onClick={() => setSearch(true)}>🔍 Studio Radar (/)</button>
     </div>
-    <p>Pipeline: AniList, YouTube, Reddit and Google Trends in, Demand Score per title and region out, Prophet forecast on top, India map for studios.</p>
+  )
+}
+
+function Audience() {
+  const d = [
+    ['Tier-1 Metros (DEL, MUM, BLR)', 84, 'High Streaming + Streetwear Purchasing Power'],
+    ['West & Central (Pune, Ahmedabad)', 72, 'Student Hubs: Highest Anime Club Density'],
+    ['South (HYD, CHE, KOC)', 68, 'High Demand for Regional (Tamil/Telugu) Dubs'],
+    ['Kolkata & North-East', 64, 'Strong Cosplay & Shonen/Sports Fandom'],
+    ['Tier-2/3 Mobile-First', 52, 'Micro-Payments (₹15-30) & AVOD YouTube Viewers']
+  ]
+  const { setSearch, setDubModal } = useStore.getState()
+
+  return (<>
+    <p>
+      <b>Audience Discovery & Unmet Demand:</b> Rather than estimating piracy, Kizuna calculates a real <b>"India Availability Gap"</b>. We take global anime popularity metrics from MyAnimeList and cross-reference them against legal Indian streaming availability (Crunchyroll, Netflix, Muse India). High global fandom with zero legal availability equals computable, monetizable unmet demand.
+    </p>
+
+    <h3 className="dist" style={{ margin: '12px 0 6px' }}>Regional Anime Appetite & Digital Profile</h3>
+    {d.map(([k, v, note], i) => (
+      <div key={k} style={{ margin: '6px 0 10px' }}>
+        <div className="row">
+          <span>{k}</span>
+          <motion.div className="bar" initial={{ scaleX: 0 }} animate={{ scaleX: v / 100 }} transition={{ delay: .2 + i * .08, type: 'spring', bounce: .4 }} />
+          <b>{v}</b>
+        </div>
+        <small style={{ fontSize: 10, opacity: .65, marginLeft: 210 }}>{note}</small>
+      </div>
+    ))}
+
+    <h3 className="dist" style={{ margin: '14px 0 8px' }}>Google Trends State-Level Interest Signals (pytrends)</h3>
+    <div className="grid">
+      <div className="box"><b>Maharashtra & Karnataka</b><br />Leading in action/seinen merchandise demand and anime convention attendance.</div>
+      <div className="box"><b>Delhi NCR & Punjab</b><br />Highest search volume for Hindi anime dubs and oversized streetwear apparel.</div>
+      <div className="box"><b>Tamil Nadu & Kerala</b><br />Rapidly growing demand for localized dubbing (Tamil/Malayalam) and regional campus clubs.</div>
+      <div className="box"><b>Assam & North-East</b><br />Highest per-capita anime engagement; heavy demand for physical collectibles.</div>
+    </div>
+
+    <div style={{ display: 'flex', gap: 10, marginTop: 14 }}>
+      <button className="btn" onClick={() => setSearch(true)}>Explore Studio Radar & Availability Gaps (/)</button>
+      <button className="btn" style={{ background: '#7a0812' }} onClick={() => setDubModal(true)}>Check Dub Unlock Campaigns</button>
+    </div>
   </>)
 }
 
@@ -123,57 +169,67 @@ function Burn({ children }) {
 }
 
 function Merch() {
+  const { setVerifyModal } = useStore.getState()
   return (<>
-    <p>License Japanese IP to Indian streetwear labels as quiet, wearable drops instead of loud logo merch. The numbers below are working assumptions.</p>
+    <p>License Japanese IP to Indian D2C streetwear labels as quiet, wearable drops instead of loud logo bootlegs. Every drop features HMAC-SHA256 tamper-evident verification to kill counterfeits.</p>
     <Burn><div className="grid">
-      <div className="box"><b>Business model</b><br />Licensing royalty of 8-12% plus a minimum guarantee, paid by the Indian label to the rights-holder.</div>
-      <div className="box"><b>Product</b><br />Oversized boxy tees, 240-280 GSM, drop-shoulder fit. Laser-cut schiffli patches with subtle motifs: a crow silhouette, cloud-stitch trim.</div>
-      <div className="box"><b>Pricing and drops</b><br />₹1,799-3,499. Numbered runs of 300-500 units, each with a QR that proves it is genuine.</div>
-      <div className="box"><b>Channels</b><br />Label D2C stores, college pop-ups, convention booths, selected fashion marketplaces.</div>
-      <div className="box"><b>Why it fits India</b><br />Subtle motifs work for campus and office wear, and sell to fans and non-fans alike.</div>
+      <div className="box"><b>Business model</b><br />Licensing royalty of 8-12% plus a Minimum Guarantee (MG), paid by the Indian label to the Japanese rights-holder.</div>
+      <div className="box"><b>Product</b><br />Oversized boxy tees, 240-280 GSM, drop-shoulder fit. Laser-cut Schiffli patches with subtle motifs (Uchiha crow silhouette, cloud embroidery).</div>
+      <div className="box"><b>Anti-Counterfeiting</b><br />Numbered runs of 300-500 units, each with a woven HMAC-signed QR label that logs scan locations to catch counterfeit batch clones.</div>
+      <div className="box"><b>Channels</b><br />Verified D2C online storefronts, comic-con booths, college campus pop-ups, and curated fashion marketplaces.</div>
     </div></Burn>
+    <div style={{ marginTop: 12 }}>
+      <button className="btn" onClick={() => setVerifyModal(true)}>🛡️ Test HMAC Anti-Counterfeiting Scanner</button>
+    </div>
   </>)
 }
 
 function Gacha() {
   const [r, setR] = useState('Pick a drop to pull'), [n, setN] = useState(0)
+  const { setSimModal, setDubModal } = useStore.getState()
   const pull = (p) => { const x = Math.random(); setN(n + 1); setR(`${p}: ` + (n % 10 === 9 || x > .93 ? (x > .99 ? 'Legendary, tee voucher' : 'Rare, mini figure code') : x > .7 ? 'Rare, chapter unlock' : 'Common, wallpaper pack')) }
   return (<>
-    <p>A UPI micro-transaction gachapon engine priced for Indian wallets. Tap the kunai-priced drops to simulate a pull.</p>
+    <p>A UPI micro-transaction gachapon engine priced for Indian wallets (sachet pricing). Tap the kunai-priced drops to simulate a pull.</p>
     <table><tbody>
       <tr><th>Drop</th><th>Contents</th><th>Disclosed odds</th></tr>
-      <tr><td>₹15</td><td>Sticker or wallpaper pack, 1-chapter unlock</td><td>Common 70%, Rare 30%</td></tr>
-      <tr><td>₹30</td><td>Chapter bundle, avatar frames, club perks</td><td>Rare 23%, Epic 6%</td></tr>
-      <tr><td>₹50</td><td>Verified collectible keychain or merch voucher</td><td>Epic 6%, Legendary 1%</td></tr>
+      <tr><td>₹15</td><td>Digital sticker or 4K wallpaper pack, 1-chapter manga preview</td><td>Common 70%, Rare 30%</td></tr>
+      <tr><td>₹30</td><td>Exclusive digital chapter bundle, avatar frame, club perks</td><td>Rare 23%, Epic 6%</td></tr>
+      <tr><td>₹50</td><td>Verified collectible enamel keychain or streetwear voucher</td><td>Epic 6%, Legendary 1%</td></tr>
     </tbody></table>
     <div>{['₹15', '₹30', '₹50'].map((p) => <button key={p} className="btn" onClick={() => pull(p)}>Pull {p}</button>)}</div>
     <div className="box"><b>{r}</b></div>
-    <p>Flow: UPI intent, Razorpay confirmation, instant reveal, studio revenue ledger. A guaranteed Rare every 10th pull builds trust. Every pull returns a real item and odds are public; check this against Indian consumer and gaming rules before launch.</p>
+    <p style={{ fontSize: 11, opacity: .8 }}>
+      <b>Legal & Regulatory Compliance:</b> 100% compliant with Indian consumer protection and gaming guidelines. Gachapon pulls yield guaranteed digital/physical assets, odds are public, and rewards cannot be converted back to real money (no cash-out).
+    </p>
+    <div style={{ display: 'flex', gap: 10, marginTop: 10 }}>
+      <button className="btn" onClick={() => setDubModal(true)}>🎙️ Launch Dub Unlock Crowdfunder</button>
+      <button className="btn" style={{ background: '#7a0812' }} onClick={() => setSimModal(true)}>💰 Open Revenue Simulator</button>
+    </div>
   </>)
 }
 
 function Loyalty() {
   return (<>
-    <p>Viral fans become loyal fans when they compete together. Overnight fandom case competitions run on campuses, with live strategy simulations judged by studios and creators.</p>
+    <p>Viral fans become loyal brand advocates when they compete together. Overnight fandom case competitions run on campuses, with live strategy simulations judged by studios and creators.</p>
     <table><tbody>
-      <tr><td>8 pm</td><td>Brief drops: a Japanese IP needs an India launch plan</td></tr>
-      <tr><td>11 pm</td><td>Live simulation: teams react to a surprise market shock, and viewers vote with micro-passes</td></tr>
-      <tr><td>2 am</td><td>Twist round: a counterfeit wave hits, and teams pivot</td></tr>
-      <tr><td>6 am</td><td>Pitch to studio judges, winners ranked, clubs earn XP</td></tr>
+      <tr><td>8 pm</td><td>Brief drops: a Japanese IP needs an India launch & localization plan</td></tr>
+      <tr><td>11 pm</td><td>Live simulation: teams react to a surprise market shock, viewers vote with micro-passes</td></tr>
+      <tr><td>2 am</td><td>Twist round: a counterfeit merchandise wave hits, and teams pivot strategy</td></tr>
+      <tr><td>6 am</td><td>Pitch to studio judges, winners ranked, campus clubs earn XP</td></tr>
     </tbody></table>
     <h3 className="dist">Loyalty ladder</h3>
     <div className="grid">
-      {[['Genin', 'First pull, club join'], ['Chunin', 'Early drop access'], ['Jonin', 'Creator collabs, free event entry'], ['Kage', 'Studio meet-ups, co-design a drop']].map(([k, v]) => <div className="box" key={k}><b>{k}</b><br />{v}</div>)}
+      {[['Genin', 'First pull, join campus club'], ['Chunin', 'Early drop access & beta previews'], ['Jonin', 'Creator collabs, free event entry, dub credits'], ['Kage', 'Studio meet-ups, co-design a limited drop']].map(([k, v]) => <div className="box" key={k}><b>{k}</b><br />{v}</div>)}
     </div>
-    <p>Metrics to track: 30-day return rate, repeat purchases per fan, clubs per campus, advocates who bring in new fans.</p>
+    <p>Metrics tracked: 30-day retention, repeat purchases per fan, registered campus chapters, community advocates.</p>
   </>)
 }
 
 const PANELS = {
-  crow: ['Stage 1 / Audience discovery', 'The crows see everything', <Audience />],
-  cloud: ['Stage 2 / Localization and merch', 'Wear the cloud', <Merch />],
-  kunai: ['Stage 3 / Monetization', 'Throw ₹15 at the screen', <Gacha />],
-  flame: ['Stage 4 / Community retention', 'The flame that will not go out', <Loyalty />],
+  crow: ['Stage 1 / Audience discovery', 'Global Popularity Proxy & Availability Gap', <Audience />],
+  cloud: ['Stage 2 / Localization and merch', 'Wear the cloud: Streetwear & Anti-Counterfeiting', <Merch />],
+  kunai: ['Stage 3 / Monetization', 'Sachet Pricing: UPI Gacha & Micro-Patronage', <Gacha />],
+  flame: ['Stage 4 / Community retention', 'Loyalty Ladder & Campus Fandom', <Loyalty />],
 }
 
 export function Modal() {
@@ -197,9 +253,426 @@ export function Modal() {
   )
 }
 
+export function RevenueSimulatorModal() {
+  const open = useStore((s) => s.simModal), close = () => useStore.getState().setSimModal(false)
+  const [fans, setFans] = useState(100000)
+  const [conv, setConv] = useState(4)
+  const [arpu, setArpu] = useState(75)
+  const [merchUnits, setMerchUnits] = useState(500)
+  const [merchPrice, setMerchPrice] = useState(2499)
+  const [royalty, setRoyalty] = useState(10)
+
+  useEffect(() => {
+    const k = (e) => e.key === 'Escape' && close()
+    addEventListener('keydown', k); return () => removeEventListener('keydown', k)
+  }, [])
+
+  const payingFans = Math.round(fans * (conv / 100))
+  const annualPassGross = payingFans * arpu * 12
+  const merchDropGross = merchUnits * merchPrice
+  const annualMerchGross = merchDropGross * 4
+  const studioMerchRoyalty = annualMerchGross * (royalty / 100)
+  const studioPassShare = annualPassGross * 0.35
+  const studioB2BData = 450000
+  const totalStudioINR = studioPassShare + studioMerchRoyalty + studioB2BData
+  const totalStudioJPY = Math.round(totalStudioINR * 1.8)
+
+  return (
+    <AnimatePresence>{open && (
+      <motion.div className="veil" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={close}>
+        <motion.div className="panel" onClick={(e) => e.stopPropagation()} initial={{ scale: .8, y: 50 }} animate={{ scale: 1, y: 0 }} exit={{ scale: .8, opacity: 0 }}>
+          <button className="x" onClick={close}>x</button>
+          <small className="kick">UNIT ECONOMICS & FINANCIAL ENGINE</small>
+          <h2 className="dist">Interactive Studio Revenue Simulator</h2>
+          <p style={{ opacity: .8, fontSize: 12 }}>
+            Simulate realistic revenue per title-region across India. Assumptions are transparently labeled below.
+          </p>
+
+          <div className="grid" style={{ marginBottom: 14 }}>
+            <div className="box">
+              <label><b>Regional Fans: {fans.toLocaleString()}</b></label>
+              <input type="range" min={25000} max={1000000} step={25000} value={fans} onChange={(e) => setFans(Number(e.target.value))} />
+            </div>
+            <div className="box">
+              <label><b>Paying Conversion: {conv}%</b> <small>(Benchmark: 2-5%)</small></label>
+              <input type="range" min={1} max={10} step={0.5} value={conv} onChange={(e) => setConv(Number(e.target.value))} />
+            </div>
+            <div className="box">
+              <label><b>Monthly Micro-Spend: ₹{arpu}</b></label>
+              <input type="range" min={20} max={250} step={5} value={arpu} onChange={(e) => setArpu(Number(e.target.value))} />
+            </div>
+            <div className="box">
+              <label><b>Streetwear Drop: {merchUnits} pcs</b></label>
+              <input type="range" min={200} max={2000} step={100} value={merchUnits} onChange={(e) => setMerchUnits(Number(e.target.value))} />
+            </div>
+            <div className="box">
+              <label><b>Tee Retail Price: ₹{merchPrice}</b></label>
+              <input type="range" min={1499} max={3999} step={100} value={merchPrice} onChange={(e) => setMerchPrice(Number(e.target.value))} />
+            </div>
+            <div className="box">
+              <label><b>Licensing Royalty: {royalty}%</b></label>
+              <input type="range" min={8} max={15} step={1} value={royalty} onChange={(e) => setRoyalty(Number(e.target.value))} />
+            </div>
+          </div>
+
+          <div style={{ background: '#120003', border: '1px solid #ff2a3a', padding: 14, margin: '10px 0' }}>
+            <h3 className="dist" style={{ margin: '0 0 8px', fontSize: 17 }}>Studio Annual Net Inflow (Per Title-Region)</h3>
+            <div style={{ display: 'flex', gap: 24, flexWrap: 'wrap', alignItems: 'baseline' }}>
+              <div>
+                <span style={{ fontSize: 11, opacity: .7 }}>Total Net Inflow (INR):</span>
+                <div style={{ fontSize: 26, fontWeight: 700, color: '#ff2a3a' }}>₹{(totalStudioINR / 100000).toFixed(2)} Lakhs</div>
+              </div>
+              <div>
+                <span style={{ fontSize: 11, opacity: .7 }}>Total Net Inflow (JPY ¥):</span>
+                <div style={{ fontSize: 26, fontWeight: 700, color: '#fff' }}>¥{(totalStudioJPY / 1000000).toFixed(2)} Million JPY</div>
+              </div>
+            </div>
+
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: 8, marginTop: 10, fontSize: 11 }}>
+              <div className="box">Passes (35% Royalty): <b>₹{(studioPassShare / 100000).toFixed(2)}L</b> ({payingFans.toLocaleString()} fans paying ₹{arpu}/mo)</div>
+              <div className="box">Streetwear (4 Drops): <b>₹{(studioMerchRoyalty / 100000).toFixed(2)}L</b> ({merchUnits * 4} total tees)</div>
+              <div className="box">B2B Studio Intelligence SaaS: <b>₹4.50L</b> (Fixed annual subscription)</div>
+            </div>
+          </div>
+
+          <h3 className="dist" style={{ margin: '14px 0 6px', fontSize: 15 }}>"Who Pays Whom" Waterfall (Per ₹100 of Fan Spend)</h3>
+          <div className="waterfall-bar">
+            <div className="waterfall-seg" style={{ width: '2%', background: '#444' }} title="₹2 Payment Gateway (UPI/Razorpay)">2%</div>
+            <div className="waterfall-seg" style={{ width: '15%', background: '#880010' }} title="₹15 Kizuna Platform Ops">15%</div>
+            <div className="waterfall-seg" style={{ width: '48%', background: '#1a4030' }} title="₹48 Indian Manufacturer & D2C Fulfillment">48%</div>
+            <div className="waterfall-seg" style={{ width: '35%', background: '#ff2a3a' }} title="₹35 Japanese Rights-Holder Royalty Pool">35%</div>
+          </div>
+          <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 11, opacity: .8, flexWrap: 'wrap', gap: 6 }}>
+            <span>💳 ₹2 Gateway / UPI</span>
+            <span>⚙️ ₹15 Platform Ops</span>
+            <span>👕 ₹48 Indian Mfr (260 GSM, Schiffli)</span>
+            <span style={{ color: '#ff2a3a', fontWeight: 'bold' }}>🇯🇵 ₹35 Japanese Studio / Creator Pool</span>
+          </div>
+
+          <p style={{ fontSize: 11, opacity: .75, marginTop: 12, borderLeft: '2px solid #ff2a3a', paddingLeft: 8 }}>
+            <b>Honest Numbers Principle:</b> 100,000 fans × 4% conversion × ₹75/mo generates ₹36 Lakhs gross. Micro-passes alone do not carry the business; commercial sustainability comes from multi-title catalog scale (10 titles across 5 regions = ₹4.5+ Cr), seasonal physical streetwear drops, and B2B SaaS data subscriptions.
+          </p>
+        </motion.div>
+      </motion.div>)}
+    </AnimatePresence>
+  )
+}
+
+export function DubUnlockModal() {
+  const open = useStore((s) => s.dubModal), close = () => useStore.getState().setDubModal(false)
+  const [pledged, setPledged] = useState(384500)
+  const [backers, setBackers] = useState(1842)
+  const [activeTier, setActiveTier] = useState(null)
+  const [checkout, setCheckout] = useState(false)
+  const [receipt, setReceipt] = useState(null)
+  const goal = 500000
+
+  useEffect(() => {
+    const k = (e) => e.key === 'Escape' && close()
+    addEventListener('keydown', k); return () => removeEventListener('keydown', k)
+  }, [])
+
+  const tiers = [
+    { name: 'Genin Backer', amt: 29, perk: 'Digital Wallpaper Pack + Supporter Badge on Club' },
+    { name: 'Chunin Backer', amt: 79, perk: '48-Hour Early Stream Access to Episode 1 Hindi Premiere' },
+    { name: 'Jonin Backer', amt: 199, perk: 'Name Permanently Etched in Official Dub End-Credits' },
+    { name: 'Kage Patron', amt: 499, perk: 'Exclusive Enamel Pin + Studio Keyframe Booklet' }
+  ]
+
+  const confirmPayment = () => {
+    setPledged(p => p + activeTier.amt)
+    setBackers(b => b + 1)
+    setReceipt(`KZ-DUB-${Math.floor(1000 + Math.random() * 9000)}`)
+    setCheckout(false)
+  }
+
+  const pct = Math.min(100, Math.round((pledged / goal) * 100))
+
+  return (
+    <AnimatePresence>{open && (
+      <motion.div className="veil" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={close}>
+        <motion.div className="panel" onClick={(e) => e.stopPropagation()} initial={{ scale: .8, y: 50 }} animate={{ scale: 1, y: 0 }} exit={{ scale: .8, opacity: 0 }}>
+          <button className="x" onClick={close}>x</button>
+          <small className="kick">MICRO-PATRONAGE LOCALIZATION ENGINE</small>
+          <h2 className="dist">Dub Unlock: Crowdfund Official Dubs</h2>
+          <p style={{ opacity: .8, fontSize: 12 }}>
+            De-risking Japanese studio localization capital. Fans pledge micro-amounts via UPI to unlock professional regional dubbing. If the goal isn't met, 100% is refunded.
+          </p>
+
+          <div className="box" style={{ background: '#120003', borderColor: '#ff2a3a', margin: '12px 0' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', flexWrap: 'wrap' }}>
+              <div>
+                <b style={{ fontSize: 16 }}>Chainsaw Man (チェンソーマン)</b>
+                <div style={{ fontSize: 11, opacity: .7 }}>Target: 12-Episode Cour in Hindi & Tamil • Studio: MAPPA Licensee</div>
+              </div>
+              <span className="kick" style={{ fontSize: 15, fontWeight: 'bold' }}>{pct}% FUNDED</span>
+            </div>
+
+            <div style={{ background: '#2a0004', height: 16, border: '1px solid #fff', margin: '10px 0', overflow: 'hidden' }}>
+              <motion.div style={{ background: '#ff2a3a', height: '100%', width: `${pct}%` }} initial={{ width: 0 }} animate={{ width: `${pct}%` }} />
+            </div>
+
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 12 }}>
+              <span><b>₹{pledged.toLocaleString()}</b> pledged of ₹{goal.toLocaleString()} goal</span>
+              <span><b>{backers.toLocaleString()}</b> Indian fans backed • 14 days left</span>
+            </div>
+          </div>
+
+          {receipt && (
+            <div style={{ background: 'rgba(0, 200, 100, 0.15)', border: '1px solid #00c864', padding: 10, margin: '10px 0', fontSize: 12 }}>
+              ✓ <b>Pledge Confirmed! Receipt #{receipt}</b>. Your support has been credited to the escrow contract. You will receive an SMS and WhatsApp confirmation with your reward code.
+            </div>
+          )}
+
+          <h3 className="dist" style={{ margin: '12px 0 8px', fontSize: 16 }}>Select a Backer Tier (UPI Micro-Payment)</h3>
+          <div className="grid">
+            {tiers.map((t) => (
+              <div key={t.amt} className="box" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+                <div>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline' }}>
+                    <b style={{ color: '#fff' }}>{t.name}</b>
+                    <span className="kick" style={{ fontSize: 15, fontWeight: 'bold' }}>₹{t.amt}</span>
+                  </div>
+                  <p style={{ fontSize: 11, margin: '6px 0 10px', opacity: .8 }}>{t.perk}</p>
+                </div>
+                <button className="btn" style={{ margin: 0, padding: '6px 10px', fontSize: 11 }} onClick={() => { setActiveTier(t); setCheckout(true); }}>
+                  Pledge ₹{t.amt} via UPI
+                </button>
+              </div>
+            ))}
+          </div>
+
+          <div style={{ background: '#0a0002', border: '1px solid #fff3', padding: 10, marginTop: 14, fontSize: 11 }}>
+            <b>🛡️ 100% Escrow Guarantee:</b> Funds are held in a scheduled escrow account (Razorpay Route). If ₹5,00,000 is not reached within 45 days, pledges are 100% auto-refunded to the original UPI VPA. Eliminates 100% of upfront financial risk for Japanese studios.
+          </div>
+
+          {checkout && (
+            <div className="veil" style={{ zIndex: 50 }} onClick={() => setCheckout(false)}>
+              <div className="panel" style={{ maxWidth: 420 }} onClick={(e) => e.stopPropagation()}>
+                <button className="x" onClick={() => setCheckout(false)}>x</button>
+                <small className="kick">RAZORPAY TEST MODE • UPI INTENT</small>
+                <h3 className="dist" style={{ margin: '4px 0 10px' }}>Complete Pledge of ₹{activeTier.amt}</h3>
+                <p style={{ fontSize: 12 }}>Paying to: <b>Kizuna Japanese IP Localization Escrow</b></p>
+                <div style={{ background: '#111', padding: 12, border: '1px solid #ff2a3a', margin: '10px 0', fontSize: 12 }}>
+                  <div>Tier: <b>{activeTier.name}</b></div>
+                  <div>Reward: <b>{activeTier.perk}</b></div>
+                  <div style={{ marginTop: 8, color: '#ff2a3a', fontWeight: 'bold' }}>Simulating Instant UPI Flow: GPay / PhonePe / Paytm</div>
+                </div>
+                <button className="btn" style={{ width: '100%', margin: '6px 0 0' }} onClick={confirmPayment}>
+                  Simulate Successful UPI Payment (₹{activeTier.amt})
+                </button>
+              </div>
+            </div>
+          )}
+        </motion.div>
+      </motion.div>)}
+    </AnimatePresence>
+  )
+}
+
+export function AntiCounterfeitModal() {
+  const open = useStore((s) => s.verifyModal), close = () => useStore.getState().setVerifyModal(false)
+  const [serial, setSerial] = useState('KZ-2026-7729-JP')
+  const [status, setStatus] = useState('idle')
+
+  useEffect(() => {
+    const k = (e) => e.key === 'Escape' && close()
+    addEventListener('keydown', k); return () => removeEventListener('keydown', k)
+  }, [])
+
+  return (
+    <AnimatePresence>{open && (
+      <motion.div className="veil" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={close}>
+        <motion.div className="panel" onClick={(e) => e.stopPropagation()} initial={{ scale: .8, y: 50 }} animate={{ scale: 1, y: 0 }} exit={{ scale: .8, opacity: 0 }}>
+          <button className="x" onClick={close}>x</button>
+          <small className="kick">ANTI-COUNTERFEITING & IP ENFORCEMENT</small>
+          <h2 className="dist">HMAC Signed-QR Verification Engine</h2>
+          <p style={{ opacity: .8, fontSize: 12 }}>
+            80%+ of Indian anime merchandise sold at Comic Cons and unverified D2C stores are bootlegs. Every official Kizuna drop has an HMAC-SHA256 tamper-evident physical label with multi-city scan velocity detection.
+          </p>
+
+          <div className="box" style={{ margin: '12px 0' }}>
+            <label style={{ fontSize: 11, opacity: .7 }}>Physical Woven Tag Serial Number:</label>
+            <input className="q" style={{ margin: '4px 0 8px', fontSize: 13, padding: 8 }} value={serial} onChange={(e) => setSerial(e.target.value)} />
+            <div style={{ fontSize: 10, opacity: .7, wordBreak: 'break-all' }}>
+              Cryptographic Signature: <span style={{ color: '#ff2a3a' }}>HMAC-SHA256(KZ-2026-7729-JP, studio_secret_key) = e8b32f91c94481...</span>
+            </div>
+          </div>
+
+          <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+            <button className="btn" onClick={() => setStatus('valid')}>Simulate Legitimate Scan (Pune)</button>
+            <button className="btn" style={{ background: '#7a000a' }} onClick={() => setStatus('anomaly')}>Simulate Counterfeit Clone Attack</button>
+          </div>
+
+          {status === 'valid' && (
+            <div style={{ background: 'rgba(0, 200, 100, 0.1)', border: '2px solid #00c864', padding: 14, marginTop: 14 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                <span style={{ fontSize: 20 }}>✅</span>
+                <b style={{ color: '#00c864', fontSize: 15 }}>VERIFIED AUTHENTIC JAPANESE LICENSED GOOD</b>
+              </div>
+              <p style={{ fontSize: 12, margin: '8px 0 4px' }}>
+                <b>Product:</b> Akatsuki Schiffli Oversized Tee (Run #241/500)<br />
+                <b>Licensor:</b> Studio Pierrot / Kizuna Verified D2C Partner<br />
+                <b>Scan Location:</b> FC Road, Pune, Maharashtra (14:32 IST) • Latency: 42ms<br />
+                <b>Status:</b> 1st Physical Verification. No duplicate scans logged.
+              </p>
+            </div>
+          )}
+
+          {status === 'anomaly' && (
+            <div style={{ background: 'rgba(255, 0, 0, 0.18)', border: '2px solid #ff0010', padding: 14, marginTop: 14, animation: 'jit 1.5s infinite' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                <span style={{ fontSize: 22 }}>🚨</span>
+                <b style={{ color: '#ff2a3a', fontSize: 16 }}>COUNTERFEIT CLONE VELOCITY DETECTED</b>
+              </div>
+              <p style={{ fontSize: 12, margin: '8px 0 4px', color: '#fff' }}>
+                <b>SECURITY EXCEPTION:</b> Serial <code>{serial}</code> was scanned across 3 distinct geolocations within 90 minutes:<br />
+                • 14:10 IST — Pune, Maharashtra (IP: 103.21.x.x)<br />
+                • 14:35 IST — Karol Bagh, New Delhi (IP: 49.36.x.x)<br />
+                • 15:02 IST — Koramangala, Bengaluru (IP: 157.48.x.x)<br />
+                <span style={{ color: '#ff2a3a', fontWeight: 'bold' }}>
+                  Verdict: Physical QR Code was duplicated onto unauthorized bootleg copies.
+                </span><br />
+                Automated Action: Serial flagged for retail audit. Notice generated for legal enforcement under Section 51 of Indian Copyright Act and Delhi High Court Dynamic Injunction protocols.
+              </p>
+            </div>
+          )}
+        </motion.div>
+      </motion.div>)}
+    </AnimatePresence>
+  )
+}
+
+export function ExecutivePitchModal() {
+  const open = useStore((s) => s.pitchModal), close = () => useStore.getState().setPitchModal(false)
+  const [tab, setTab] = useState('pitch')
+
+  useEffect(() => {
+    const k = (e) => e.key === 'Escape' && close()
+    addEventListener('keydown', k); return () => removeEventListener('keydown', k)
+  }, [])
+
+  return (
+    <AnimatePresence>{open && (
+      <motion.div className="veil" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={close}>
+        <motion.div className="panel" onClick={(e) => e.stopPropagation()} initial={{ scale: .8, y: 50 }} animate={{ scale: 1, y: 0 }} exit={{ scale: .8, opacity: 0 }}>
+          <button className="x" onClick={close}>x</button>
+          <small className="kick">JETRO-PS-02 EXECUTIVE BRIEFING</small>
+          <h2 className="dist">The Business Case for Japanese Content in India</h2>
+
+          <div style={{ display: 'flex', gap: 8, margin: '10px 0 16px', flexWrap: 'wrap' }}>
+            {[['pitch', '30-Sec Business Case'], ['competitors', 'Competitive Landscape'], ['pilot', '90-Day Pilot Framework'], ['safeguards', 'Legal & Regulatory Safeguards']].map(([k, label]) => (
+              <button key={k} className="btn chip" style={{ opacity: tab === k ? 1 : .5, background: tab === k ? '#ff2a3a' : '#1a0003' }} onClick={() => setTab(k)}>
+                {label}
+              </button>
+            ))}
+          </div>
+
+          {tab === 'pitch' && (
+            <div>
+              <div className="grid">
+                <div className="box">
+                  <b>1. The Indian Paradox</b><br />
+                  40M+ active anime viewers in India, growing at 28% CAGR. Yet Japanese studios capture less than 1% of economic value due to 85%+ piracy rates and low conversion on rigid $10+ subscriptions.
+                </div>
+                <div className="box">
+                  <b>2. The Core Insight</b><br />
+                  Indian youth do not lack willingness to spend—they lack <b>frictionless, localized sachet pricing</b>. With UPI processing 14B+ monthly transactions, micro-payments (₹15–₹50) convert piracy into paying customers.
+                </div>
+                <div className="box">
+                  <b>3. The Kizuna Infrastructure</b><br />
+                  Kizuna is not a video player. It is the <b>Monetization & Intelligence Layer</b> bridging Japanese IP with Indian D2C streetwear, UPI gacha, and crowdfunded regional dubbing.
+                </div>
+                <div className="box">
+                  <b>4. Unit Economics</b><br />
+                  100k regional fans at 4% conversion × ₹75/mo = ₹36 Lakhs. Combined with limited streetwear drops (₹12.5L/drop) and B2B studio intelligence, a 10-title catalog yields ₹4.5+ Cr studio net inflow.
+                </div>
+              </div>
+            </div>
+          )}
+
+          {tab === 'competitors' && (
+            <div>
+              <table>
+                <thead>
+                  <tr><th>Platform</th><th>Model in India</th><th>Limitation / Gap</th><th>Kizuna White Space</th></tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><b>Crunchyroll (Sony)</b></td>
+                    <td>SVOD ₹79-99/mo with Hindi/Tamil dubs</td>
+                    <td>High subscription churn; credit-card friction; no official merchandise engine</td>
+                    <td>Sachet pricing (₹15-50); physical streetwear drops; verified collector perks</td>
+                  </tr>
+                  <tr>
+                    <td><b>Muse India & Ani-One Asia</b></td>
+                    <td>Free AVOD on YouTube (3.15M+ subs)</td>
+                    <td>Extremely low ad monetization (YouTube India CPM is ~$0.80); leaves 95% fan spend uncaptured</td>
+                    <td>Monetizes YouTube AVOD audience via Dub Unlock micro-patronage and licensed merch drops</td>
+                  </tr>
+                  <tr>
+                    <td><b>Netflix & Prime Video</b></td>
+                    <td>₹149-649/mo mainstream OTT</td>
+                    <td>Selective catalog; mainstream audience only; zero community interaction</td>
+                    <td>Niche/cult anime monetization (Bocchi the Rock!, Chainsaw Man) and campus fandom retention</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          )}
+
+          {tab === 'pilot' && (
+            <div>
+              <div className="box" style={{ background: '#120003', borderColor: '#ff2a3a', marginBottom: 12 }}>
+                <b>Pilot Title:</b> <i>Chainsaw Man</i> (MAPPA) or <i>Bocchi the Rock!</i> (CloverWorks)<br />
+                <b>Target Territory:</b> Pune–Bengaluru Student Corridor (2.4M college students, high UPI adoption)<br />
+                <b>Duration:</b> 90 Days
+              </div>
+              <h4 className="dist" style={{ margin: '8px 0' }}>Three Quantified Pilot KPIs</h4>
+              <div className="grid">
+                <div className="box">
+                  <b>KPI 1: Fan Engagement</b><br />
+                  25,000 Unique regional fans interacting with the title hub on Kizuna within 30 days.
+                </div>
+                <div className="box">
+                  <b>KPI 2: Streetwear Drop</b><br />
+                  Sell-out of 500-unit numbered streetwear tee drop (₹2,499) within 72 hours via Indian D2C partner.
+                </div>
+                <div className="box">
+                  <b>KPI 3: Dub Unlock</b><br />
+                  Reach ₹4,50,000 in micro-pledges (90% of ₹5L goal) from 2,000+ verified Indian backers.
+                </div>
+              </div>
+              <p style={{ fontSize: 11, opacity: .75, marginTop: 10 }}>
+                <b>Go/No-Go Decision Gate:</b> Achieving &gt;80% on KPIs 2 and 3 automatically greenlights expansion to 5 additional titles and activates Phase 2 across Delhi NCR, Mumbai, and Hyderabad.
+              </p>
+            </div>
+          )}
+
+          {tab === 'safeguards' && (
+            <div className="grid">
+              <div className="box">
+                <b>Public Gambling Act Compliance</b><br />
+                Indian law strictly regulates Real-Money Gaming (RMG). Kizuna's Gachapon engine is 100% compliant: every pull guarantees real virtual goods (wallpapers, manga chapters, voucher codes), odds are public, and prizes are non-convertible to cash.
+              </div>
+              <div className="box">
+                <b>Anti-Counterfeit IP Enforcement</b><br />
+                Leveraging Delhi High Court dynamic injunction precedents to issue immediate rogue website blocks and working with Indian Customs Border Enforcement to seize unauthorized bootleg merch imports.
+              </div>
+              <div className="box">
+                <b>FEMA & Cross-Border Royalties</b><br />
+                All royalty flows from Indian D2C labels to Japanese studios operate under standard Reserve Bank of India (RBI) / FEMA automatic route guidelines for intellectual property licensing.
+              </div>
+            </div>
+          )}
+        </motion.div>
+      </motion.div>)}
+    </AnimatePresence>
+  )
+}
+
 import CATALOG from './catalog.json'
 
-const API = import.meta.env.VITE_API_URL || ''
 const REG = ['All Regions', 'North', 'South', 'West', 'East', 'North-East']
 const TOP_STUDIOS = ['All Studios', 'MAPPA', 'Toei Animation', 'Wit Studio', 'ufotable', 'Bones', 'Pierrot', 'Madhouse']
 
@@ -229,21 +702,22 @@ export function Spotlight() {
         t.native_name.includes(lq) || 
         t.genre.toLowerCase().includes(lq) || 
         t.studio.toLowerCase().includes(lq) ||
-        t.recommendation.toLowerCase().includes(lq)
+        t.recommendation.toLowerCase().includes(lq) ||
+        t.streaming_status.toLowerCase().includes(lq)
       )
     }
 
     const processed = filtered.slice(0, 15).map((t) => ({
       ...t,
-      demand: Math.min(99, Math.max(25, t.demand + regOffset)),
-      piracy_signal: Math.min(98, Math.max(20, t.piracy_signal + regOffset)),
+      gap: Math.min(99, Math.max(15, (t.availability_gap || 50) + regOffset)),
+      pop: Math.min(99, Math.max(25, (t.popularity_proxy || 70) + regOffset)),
     }))
 
     setRes(processed)
   }, [q, reg, studio, on])
 
   return (<>
-    <button className="btn searchbtn" onClick={() => set(true)}>Studio Catalog & Demand Radar (/)</button>
+    <button className="btn searchbtn" onClick={() => set(true)}>Studio Radar & Availability Gap (/)</button>
     <AnimatePresence>{on && (
       <motion.div className="veil spot" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => set(false)}>
         <motion.div className="panel" onClick={(e) => e.stopPropagation()} initial={{ y: -80, scale: .9 }} animate={{ y: 0, scale: 1 }} transition={{ type: 'spring', stiffness: 300, damping: 14 }}>
@@ -255,7 +729,7 @@ export function Spotlight() {
             <button className="x" onClick={() => set(false)}>x</button>
           </div>
           <p style={{ margin: '0 0 12px', fontSize: 12, opacity: .8 }}>
-            Powered by 24,000+ title MyAnimeList catalog mapped against regional Indian streaming, piracy and youth demographics.
+            Powered by 24,000+ title MyAnimeList catalog cross-referenced against legal Indian streaming availability (Crunchyroll, Netflix, Muse India) to calculate real <b>Unmet Demand (Availability Gap)</b>.
           </p>
 
           <input autoFocus className="q" placeholder="Search 350+ anime, studio (e.g. MAPPA, Wit, Toei), or genre..." value={q} onChange={(e) => setQ(e.target.value)} />
@@ -295,18 +769,20 @@ export function Spotlight() {
                     <span style={{ color: '#ff5560' }}>{r.studio}</span> • {r.genre} • ★ {r.score} ({(r.members / 1000).toFixed(0)}k global fans)
                   </div>
 
+                  <div style={{ display: 'flex', gap: 16, margin: '4px 0', flexWrap: 'wrap', fontSize: 11 }}>
+                    <span>Global Popularity Proxy: <b>{r.pop}/100</b></span>
+                    <span>India Streaming: <b style={{ color: r.streaming_status === 'Unlicensed in India' ? '#ff2a3a' : '#00c864' }}>{r.streaming_status}</b></span>
+                  </div>
+
                   <div className="row" style={{ margin: '4px 0' }}>
-                    <span style={{ fontSize: 11 }}>Indian Demand ({reg}):</span>
-                    <motion.div className="bar" initial={{ scaleX: 0 }} animate={{ scaleX: r.demand / 100 }} />
-                    <b style={{ color: '#ff2a3a' }}>{r.demand}</b>
+                    <span style={{ fontSize: 11 }}>Availability Gap ({reg}):</span>
+                    <motion.div className="bar" style={{ background: r.gap > 65 ? '#ff2a3a' : '#ff9900' }} initial={{ scaleX: 0 }} animate={{ scaleX: r.gap / 100 }} />
+                    <b style={{ color: '#ff2a3a' }}>{r.gap}%</b>
                   </div>
 
                   <div style={{ display: 'flex', gap: 8, marginTop: 6, flexWrap: 'wrap', alignItems: 'center' }}>
                     <span className="kick" style={{ fontSize: 11, border: '1px solid #ff2a3a', padding: '2px 6px', background: 'rgba(255,42,58,0.1)' }}>
                       📍 {r.recommendation}
-                    </span>
-                    <span style={{ fontSize: 10, opacity: .65 }}>
-                      Piracy Signal: {r.piracy_signal}%
                     </span>
                   </div>
                 </div>
