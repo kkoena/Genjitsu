@@ -79,18 +79,12 @@ export function Boot() {
 }
 
 export function Hud() {
-  const { setPitchModal, setSimModal, setDubModal } = useStore.getState()
   return (<>
     <div className="hud">
       <h1 className="dist">Kizuna 絆</h1>
       <p>JETRO-PS-02: Converting Japanese Pop Culture & Content Fandom into Sustainable Revenue in India.</p>
-      <div style={{ display: 'flex', gap: 6, marginTop: 8, pointerEvents: 'auto' }}>
-        <button className="nav-btn active" onClick={() => setPitchModal(true)}>📊 30s Business Brief</button>
-        <button className="nav-btn" onClick={() => setSimModal(true)}>💰 Revenue Engine</button>
-        <button className="nav-btn" onClick={() => setDubModal(true)}>🎙️ Dub Unlock</button>
-      </div>
     </div>
-    <div className="hint">click an object / drag the kunai / touch the black flame / esc closes</div>
+    <div className="hint">explore 3D scene: click objects / drag kunai • navigate via top bar • esc closes</div>
   </>)
 }
 
@@ -165,7 +159,6 @@ function Audience() {
     ['Kolkata & North-East', 64, 'Strong Cosplay & Shonen/Sports Fandom'],
     ['Tier-2/3 Mobile-First', 52, 'Micro-Payments (₹15-30) & AVOD YouTube Viewers']
   ]
-  const { setSearch, setDubModal } = useStore.getState()
 
   return (<>
     <p>
@@ -193,11 +186,6 @@ function Audience() {
       <div className="box"><b>Tamil Nadu & Kerala</b><br />Rapidly growing demand for localized dubbing (Tamil/Malayalam) and regional campus clubs.</div>
       <div className="box"><b>Assam & North-East</b><br />Highest per-capita anime engagement; heavy demand for physical collectibles.</div>
     </div>
-
-    <div style={{ display: 'flex', gap: 10, marginTop: 14 }}>
-      <button className="btn" onClick={() => setSearch(true)}>Explore Studio Radar & Availability Gaps (/)</button>
-      <button className="btn" style={{ background: '#7a0812' }} onClick={() => setDubModal(true)}>Check Dub Unlock Campaigns</button>
-    </div>
   </>)
 }
 
@@ -221,7 +209,6 @@ function Burn({ children }) {
 }
 
 function Merch() {
-  const { setVerifyModal } = useStore.getState()
   return (<>
     <p>License Japanese IP to Indian D2C streetwear labels as quiet, wearable drops instead of loud logo bootlegs. Every drop features HMAC-SHA256 tamper-evident verification to kill counterfeits.</p>
     <Burn><div className="grid">
@@ -230,15 +217,11 @@ function Merch() {
       <div className="box"><b>Anti-Counterfeiting</b><br />Numbered runs of 300-500 units, each with a woven HMAC-signed QR label that logs scan locations to catch counterfeit batch clones.</div>
       <div className="box"><b>Channels</b><br />Verified D2C online storefronts, comic-con booths, college campus pop-ups, and curated fashion marketplaces.</div>
     </div></Burn>
-    <div style={{ marginTop: 12 }}>
-      <button className="btn" onClick={() => setVerifyModal(true)}>🛡️ Test HMAC Anti-Counterfeiting Scanner</button>
-    </div>
   </>)
 }
 
 function Gacha() {
   const [r, setR] = useState('Pick a drop to pull'), [n, setN] = useState(0)
-  const { setSimModal, setDubModal } = useStore.getState()
   const pull = (p) => { const x = Math.random(); setN(n + 1); setR(`${p}: ` + (n % 10 === 9 || x > .93 ? (x > .99 ? 'Legendary, tee voucher' : 'Rare, mini figure code') : x > .7 ? 'Rare, chapter unlock' : 'Common, wallpaper pack')) }
   return (<>
     <p>A UPI micro-transaction gachapon engine priced for Indian wallets (sachet pricing). Tap the kunai-priced drops to simulate a pull.</p>
@@ -248,15 +231,11 @@ function Gacha() {
       <tr><td>₹30</td><td>Exclusive digital chapter bundle, avatar frame, club perks</td><td>Rare 23%, Epic 6%</td></tr>
       <tr><td>₹50</td><td>Verified collectible enamel keychain or streetwear voucher</td><td>Epic 6%, Legendary 1%</td></tr>
     </tbody></table>
-    <div>{['₹15', '₹30', '₹50'].map((p) => <button key={p} className="btn" onClick={() => pull(p)}>Pull {p}</button>)}</div>
+    <div style={{ margin: '10px 0' }}>{['₹15', '₹30', '₹50'].map((p) => <button key={p} className="btn" onClick={() => pull(p)}>Pull {p}</button>)}</div>
     <div className="box"><b>{r}</b></div>
-    <p style={{ fontSize: 11, opacity: .8 }}>
+    <p style={{ fontSize: 11, opacity: .8, marginTop: 10 }}>
       <b>Legal & Regulatory Compliance:</b> 100% compliant with Indian consumer protection and gaming guidelines. Gachapon pulls yield guaranteed digital/physical assets, odds are public, and rewards cannot be converted back to real money (no cash-out).
     </p>
-    <div style={{ display: 'flex', gap: 10, marginTop: 10 }}>
-      <button className="btn" onClick={() => setDubModal(true)}>🎙️ Launch Dub Unlock Crowdfunder</button>
-      <button className="btn" style={{ background: '#7a0812' }} onClick={() => setSimModal(true)}>💰 Open Revenue Simulator</button>
-    </div>
   </>)
 }
 
