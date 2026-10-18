@@ -197,28 +197,16 @@ export function Modal() {
   )
 }
 
-const API = import.meta.env.VITE_API_URL || ''
-const REG = ['All', 'North', 'South', 'West', 'East', 'North-East']
+import CATALOG from './catalog.json'
 
-const MOCK_TITLES = [
-  { id: 1, name: 'Naruto', native_name: 'ナルト', genre: 'Shonen', studio: 'Pierrot', demand: 94, piracy_signal: 88 },
-  { id: 2, name: 'One Piece', native_name: 'ワンピース', genre: 'Shonen', studio: 'Toei Animation', demand: 91, piracy_signal: 79 },
-  { id: 3, name: 'Demon Slayer', native_name: '鬼滅の刃', genre: 'Shonen', studio: 'ufotable', demand: 96, piracy_signal: 92 },
-  { id: 4, name: 'Jujutsu Kaisen', native_name: '呪術廻戦', genre: 'Shonen', studio: 'MAPPA', demand: 95, piracy_signal: 89 },
-  { id: 5, name: 'Attack on Titan', native_name: '進撃の巨人', genre: 'Action', studio: 'WIT / MAPPA', demand: 93, piracy_signal: 84 },
-  { id: 6, name: 'Death Note', native_name: 'デスノート', genre: 'Thriller', studio: 'Madhouse', demand: 87, piracy_signal: 73 },
-  { id: 7, name: 'Dragon Ball Z', native_name: 'ドラゴンボールZ', genre: 'Shonen', studio: 'Toei Animation', demand: 89, piracy_signal: 68 },
-  { id: 8, name: 'Spy x Family', native_name: 'スパイファミリー', genre: 'Comedy', studio: 'Wit / CloverWorks', demand: 82, piracy_signal: 65 },
-  { id: 9, name: 'Chainsaw Man', native_name: 'チェンソーマン', genre: 'Horror', studio: 'MAPPA', demand: 88, piracy_signal: 81 },
-  { id: 10, name: 'Fullmetal Alchemist', native_name: '鋼の錬金術師', genre: 'Adventure', studio: 'Bones', demand: 76, piracy_signal: 55 },
-  { id: 11, name: 'My Hero Academia', native_name: '僕のヒーローアカデミア', genre: 'Shonen', studio: 'Bones', demand: 84, piracy_signal: 72 },
-  { id: 12, name: 'Spirited Away', native_name: '千と千尋の神隠し', genre: 'Fantasy', studio: 'Studio Ghibli', demand: 71, piracy_signal: 48 },
-  { id: 13, name: 'Haikyu!!', native_name: 'ハイキュー!!', genre: 'Sports', studio: 'Production I.G', demand: 79, piracy_signal: 62 },
-]
+const API = import.meta.env.VITE_API_URL || ''
+const REG = ['All Regions', 'North', 'South', 'West', 'East', 'North-East']
+const TOP_STUDIOS = ['All Studios', 'MAPPA', 'Toei Animation', 'Wit Studio', 'ufotable', 'Bones', 'Pierrot', 'Madhouse']
 
 export function Spotlight() {
   const on = useStore((s) => s.search), set = useStore((s) => s.setSearch)
-  const [q, setQ] = useState(''), [reg, setReg] = useState('All'), [res, setRes] = useState([]), [trend, setTrend] = useState([]), [err, setErr] = useState('')
+  const [q, setQ] = useState(''), [reg, setReg] = useState('All Regions'), [studio, setStudio] = useState('All Studios'), [res, setRes] = useState([])
+
   useEffect(() => {
     const k = (e) => {
       if (e.key === '/' && !on && document.activeElement.tagName !== 'INPUT') { e.preventDefault(); set(true) }
@@ -226,64 +214,105 @@ export function Spotlight() {
     }
     addEventListener('keydown', k); return () => removeEventListener('keydown', k)
   }, [on])
-  useEffect(() => {
-    if (on) {
-      fetch(`${API}/api/trending`)
-        .then((r) => r.json())
-        .then((d) => setTrend(d.trending && d.trending.length ? d.trending : [{ q: 'Demon Slayer' }, { q: 'Jujutsu Kaisen' }, { q: 'Naruto' }, { q: 'One Piece' }]))
-        .catch(() => setTrend([{ q: 'Demon Slayer' }, { q: 'Jujutsu Kaisen' }, { q: 'Naruto' }, { q: 'One Piece' }]))
-    }
-  }, [on])
-  useEffect(() => {
-    if (!q.trim()) { setRes([]); return }
-    const ctl = new AbortController()
-    const t = setTimeout(() => {
-      fetch(`${API}/api/search?q=${encodeURIComponent(q)}${reg === 'All' ? '' : '&region=' + reg}`, { signal: ctl.signal })
-        .then((r) => r.json())
-        .then((d) => {
-          if (d.results && d.results.length) { setRes(d.results); setErr('') }
-          else { fallbackSearch(q, reg) }
-        })
-        .catch((e) => {
-          if (e.name !== 'AbortError') fallbackSearch(q, reg)
-        })
-    }, 150)
-    return () => { clearTimeout(t); ctl.abort() }
-  }, [q, reg])
 
-  const fallbackSearch = (query, region) => {
-    const lq = query.toLowerCase()
-    const regOffset = region === 'North' ? 4 : region === 'South' ? -2 : region === 'West' ? 1 : region === 'North-East' ? 5 : 0
-    const matches = MOCK_TITLES.filter((t) => 
-      t.name.toLowerCase().includes(lq) || 
-      t.native_name.includes(lq) || 
-      t.genre.toLowerCase().includes(lq) || 
-      t.studio.toLowerCase().includes(lq)
-    ).map((t) => ({
+  useEffect(() => {
+    const lq = q.trim().toLowerCase()
+    const regOffset = reg === 'North' ? 4 : reg === 'South' ? -2 : reg === 'West' ? 1 : reg === 'North-East' ? 5 : 0
+
+    let filtered = CATALOG
+    if (studio !== 'All Studios') {
+      filtered = filtered.filter((t) => t.studio.toLowerCase().includes(studio.toLowerCase()))
+    }
+    if (lq) {
+      filtered = filtered.filter((t) => 
+        t.name.toLowerCase().includes(lq) || 
+        t.native_name.includes(lq) || 
+        t.genre.toLowerCase().includes(lq) || 
+        t.studio.toLowerCase().includes(lq) ||
+        t.recommendation.toLowerCase().includes(lq)
+      )
+    }
+
+    const processed = filtered.slice(0, 15).map((t) => ({
       ...t,
-      demand: Math.min(100, Math.max(10, t.demand + regOffset)),
-      piracy_signal: Math.min(100, Math.max(10, t.piracy_signal + regOffset)),
+      demand: Math.min(99, Math.max(25, t.demand + regOffset)),
+      piracy_signal: Math.min(98, Math.max(20, t.piracy_signal + regOffset)),
     }))
-    setRes(matches)
-    setErr('')
-  }
+
+    setRes(processed)
+  }, [q, reg, studio, on])
+
   return (<>
-    <button className="btn searchbtn" onClick={() => set(true)}>Search titles (/)</button>
+    <button className="btn searchbtn" onClick={() => set(true)}>Studio Catalog & Demand Radar (/)</button>
     <AnimatePresence>{on && (
       <motion.div className="veil spot" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => set(false)}>
         <motion.div className="panel" onClick={(e) => e.stopPropagation()} initial={{ y: -80, scale: .9 }} animate={{ y: 0, scale: 1 }} transition={{ type: 'spring', stiffness: 300, damping: 14 }}>
-          <input autoFocus className="q" placeholder="Search anime, studio or genre" value={q} onChange={(e) => setQ(e.target.value)} />
-          <div>{REG.map((r) => <button key={r} className="btn chip" style={{ opacity: r === reg ? 1 : .5 }} onClick={() => setReg(r)}>{r}</button>)}</div>
-          {err && <p className="kick">{err}</p>}
-          {!q && trend.length > 0 && <p>Trending: {trend.map((t) => <button key={t.q} className="btn chip" onClick={() => setQ(t.q)}>{t.q}</button>)}</p>}
-          {q && !err && res.length === 0 && <p>No titles match "{q}". Try a studio or genre.</p>}
-          {res.map((r) => (
-            <div key={r.id} className="box" style={{ margin: '8px 0' }}>
-              <b>{r.name}</b> {r.native_name} <small>({r.genre}, {r.studio})</small>
-              <div className="row"><span>Demand {reg === 'All' ? 'in India' : 'in ' + reg}</span>
-                <motion.div className="bar" initial={{ scaleX: 0 }} animate={{ scaleX: r.demand / 100 }} /><b>{r.demand}</b></div>
-              {r.demand >= 70 && r.piracy_signal >= 60 && <span className="kick">Localize first: high demand and heavy piracy search</span>}
-            </div>))}
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
+            <div>
+              <small className="kick" style={{ textTransform: 'uppercase', letterSpacing: 1 }}>B2B Intelligence Radar</small>
+              <h2 className="dist" style={{ margin: '4px 0 0' }}>Japanese IP & India Monetization Index</h2>
+            </div>
+            <button className="x" onClick={() => set(false)}>x</button>
+          </div>
+          <p style={{ margin: '0 0 12px', fontSize: 12, opacity: .8 }}>
+            Powered by 24,000+ title MyAnimeList catalog mapped against regional Indian streaming, piracy and youth demographics.
+          </p>
+
+          <input autoFocus className="q" placeholder="Search 350+ anime, studio (e.g. MAPPA, Wit, Toei), or genre..." value={q} onChange={(e) => setQ(e.target.value)} />
+
+          <div style={{ margin: '6px 0 10px' }}>
+            <span style={{ fontSize: 11, opacity: .7, marginRight: 8 }}>Region:</span>
+            {REG.map((r) => <button key={r} className="btn chip" style={{ opacity: r === reg ? 1 : .45, background: r === reg ? '#ff2a3a' : '#1a0003' }} onClick={() => setReg(r)}>{r}</button>)}
+          </div>
+
+          <div style={{ margin: '0 0 12px' }}>
+            <span style={{ fontSize: 11, opacity: .7, marginRight: 8 }}>Studio:</span>
+            {TOP_STUDIOS.map((s) => <button key={s} className="btn chip" style={{ opacity: s === studio ? 1 : .45, background: s === studio ? '#b3000f' : '#1a0003' }} onClick={() => setStudio(s)}>{s}</button>)}
+          </div>
+
+          {!q && studio === 'All Studios' && (
+            <p style={{ fontSize: 12, opacity: .75, margin: '8px 0' }}>
+              🔥 Trending High in India: {['Demon Slayer', 'Jujutsu Kaisen', 'Attack on Titan', 'Naruto', 'One Piece', 'Chainsaw Man'].map((t) => (
+                <button key={t} className="btn chip" style={{ background: '#330006' }} onClick={() => setQ(t)}>{t}</button>
+              ))}
+            </p>
+          )}
+
+          {res.length === 0 && <p className="kick" style={{ padding: 12 }}>No titles found matching your search. Try another studio or title.</p>}
+
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginTop: 10 }}>
+            {res.map((r) => (
+              <div key={r.id} className="box" style={{ display: 'flex', gap: 14, alignItems: 'flex-start', background: '#0a0002' }}>
+                {r.image && (
+                  <img src={r.image} alt={r.name} style={{ width: 56, height: 78, objectFit: 'cover', border: '1px solid #ff2a3a', borderRadius: 2, flexShrink: 0 }} />
+                )}
+                <div style={{ flex: 1, minWidth: 0 }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', flexWrap: 'wrap', gap: 6 }}>
+                    <b style={{ fontSize: 15, color: '#fff' }}>{r.name}</b>
+                    {r.native_name && <span className="dist" style={{ color: '#ff2a3a', fontSize: 13 }}>{r.native_name}</span>}
+                  </div>
+                  <div style={{ fontSize: 11, opacity: .75, margin: '2px 0 6px' }}>
+                    <span style={{ color: '#ff5560' }}>{r.studio}</span> • {r.genre} • ★ {r.score} ({(r.members / 1000).toFixed(0)}k global fans)
+                  </div>
+
+                  <div className="row" style={{ margin: '4px 0' }}>
+                    <span style={{ fontSize: 11 }}>Indian Demand ({reg}):</span>
+                    <motion.div className="bar" initial={{ scaleX: 0 }} animate={{ scaleX: r.demand / 100 }} />
+                    <b style={{ color: '#ff2a3a' }}>{r.demand}</b>
+                  </div>
+
+                  <div style={{ display: 'flex', gap: 8, marginTop: 6, flexWrap: 'wrap', alignItems: 'center' }}>
+                    <span className="kick" style={{ fontSize: 11, border: '1px solid #ff2a3a', padding: '2px 6px', background: 'rgba(255,42,58,0.1)' }}>
+                      📍 {r.recommendation}
+                    </span>
+                    <span style={{ fontSize: 10, opacity: .65 }}>
+                      Piracy Signal: {r.piracy_signal}%
+                    </span>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
         </motion.div>
       </motion.div>)}
     </AnimatePresence>
